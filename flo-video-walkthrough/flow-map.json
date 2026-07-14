@@ -1,0 +1,2738 @@
+[
+  {
+    "from": "004",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "006",
+    "connector": "solid recorded",
+    "section": "User identification",
+    "warning": ""
+  },
+  {
+    "from": "006",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "007",
+    "connector": "solid recorded",
+    "section": "User identification",
+    "warning": ""
+  },
+  {
+    "from": "007",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "008",
+    "connector": "solid recorded",
+    "section": "Entry and brand introduction",
+    "warning": ""
+  },
+  {
+    "from": "008",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "009",
+    "connector": "solid recorded",
+    "section": "Entry and brand introduction",
+    "warning": ""
+  },
+  {
+    "from": "009",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "010",
+    "connector": "solid recorded",
+    "section": "Entry and brand introduction",
+    "warning": ""
+  },
+  {
+    "from": "010",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "013",
+    "connector": "solid recorded",
+    "section": "Entry and brand introduction",
+    "warning": ""
+  },
+  {
+    "from": "013",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "014",
+    "connector": "solid recorded",
+    "section": "Entry and brand introduction",
+    "warning": ""
+  },
+  {
+    "from": "014",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "015",
+    "connector": "solid recorded",
+    "section": "Entry and brand introduction",
+    "warning": ""
+  },
+  {
+    "from": "015",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "016",
+    "connector": "solid recorded",
+    "section": "Entry and brand introduction",
+    "warning": ""
+  },
+  {
+    "from": "016",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "017",
+    "connector": "solid recorded",
+    "section": "Entry and brand introduction",
+    "warning": ""
+  },
+  {
+    "from": "017",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "018",
+    "connector": "solid recorded",
+    "section": "Goal and intent selection",
+    "warning": ""
+  },
+  {
+    "from": "018",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "019",
+    "connector": "solid recorded",
+    "section": "Goal and intent selection",
+    "warning": ""
+  },
+  {
+    "from": "019",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "020",
+    "connector": "solid recorded",
+    "section": "Goal and intent selection",
+    "warning": ""
+  },
+  {
+    "from": "020",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "021",
+    "connector": "solid recorded",
+    "section": "Goal and intent selection",
+    "warning": ""
+  },
+  {
+    "from": "021",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "022",
+    "connector": "solid recorded",
+    "section": "Goal and intent selection",
+    "warning": ""
+  },
+  {
+    "from": "022",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "023",
+    "connector": "solid recorded",
+    "section": "Goal and intent selection",
+    "warning": ""
+  },
+  {
+    "from": "023",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "024",
+    "connector": "solid recorded",
+    "section": "Trust building",
+    "warning": ""
+  },
+  {
+    "from": "024",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "025",
+    "connector": "solid recorded",
+    "section": "Trust building",
+    "warning": ""
+  },
+  {
+    "from": "025",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "026",
+    "connector": "solid recorded",
+    "section": "Trust building",
+    "warning": ""
+  },
+  {
+    "from": "026",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "027",
+    "connector": "solid recorded",
+    "section": "Trust building",
+    "warning": ""
+  },
+  {
+    "from": "027",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "028",
+    "connector": "solid recorded",
+    "section": "Trust building",
+    "warning": ""
+  },
+  {
+    "from": "028",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "029",
+    "connector": "solid recorded",
+    "section": "Trust building",
+    "warning": ""
+  },
+  {
+    "from": "029",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "030",
+    "connector": "solid recorded",
+    "section": "Trust building",
+    "warning": ""
+  },
+  {
+    "from": "030",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "031",
+    "connector": "solid recorded",
+    "section": "Trust building",
+    "warning": ""
+  },
+  {
+    "from": "031",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "032",
+    "connector": "solid recorded",
+    "section": "Trust building",
+    "warning": ""
+  },
+  {
+    "from": "032",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "033",
+    "connector": "solid recorded",
+    "section": "Trust building",
+    "warning": ""
+  },
+  {
+    "from": "033",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "034",
+    "connector": "solid recorded",
+    "section": "Period and cycle history",
+    "warning": ""
+  },
+  {
+    "from": "034",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "036",
+    "connector": "solid recorded",
+    "section": "Period and cycle history",
+    "warning": ""
+  },
+  {
+    "from": "036",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "037",
+    "connector": "solid recorded",
+    "section": "Period and cycle history",
+    "warning": ""
+  },
+  {
+    "from": "037",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "038",
+    "connector": "solid recorded",
+    "section": "Period and cycle history",
+    "warning": ""
+  },
+  {
+    "from": "038",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "039",
+    "connector": "solid recorded",
+    "section": "Period and cycle history",
+    "warning": ""
+  },
+  {
+    "from": "039",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "040",
+    "connector": "solid recorded",
+    "section": "Period and cycle history",
+    "warning": ""
+  },
+  {
+    "from": "040",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "041",
+    "connector": "solid recorded",
+    "section": "Health assessment",
+    "warning": ""
+  },
+  {
+    "from": "041",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "042",
+    "connector": "solid recorded",
+    "section": "Health assessment",
+    "warning": ""
+  },
+  {
+    "from": "042",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "043",
+    "connector": "solid recorded",
+    "section": "Health assessment",
+    "warning": ""
+  },
+  {
+    "from": "043",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "044",
+    "connector": "solid recorded",
+    "section": "Health assessment",
+    "warning": ""
+  },
+  {
+    "from": "044",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "045",
+    "connector": "solid recorded",
+    "section": "Health assessment",
+    "warning": ""
+  },
+  {
+    "from": "045",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "046",
+    "connector": "solid recorded",
+    "section": "Health assessment",
+    "warning": ""
+  },
+  {
+    "from": "046",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "048",
+    "connector": "solid recorded",
+    "section": "Health assessment",
+    "warning": ""
+  },
+  {
+    "from": "048",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "049",
+    "connector": "solid recorded",
+    "section": "Health and lifestyle assessment",
+    "warning": ""
+  },
+  {
+    "from": "049",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "050",
+    "connector": "solid recorded",
+    "section": "Health and lifestyle assessment",
+    "warning": ""
+  },
+  {
+    "from": "050",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "051",
+    "connector": "solid recorded",
+    "section": "Health and lifestyle assessment",
+    "warning": ""
+  },
+  {
+    "from": "051",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "052",
+    "connector": "solid recorded",
+    "section": "Health and lifestyle assessment",
+    "warning": ""
+  },
+  {
+    "from": "052",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "053",
+    "connector": "solid recorded",
+    "section": "Health and lifestyle assessment",
+    "warning": ""
+  },
+  {
+    "from": "053",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "054",
+    "connector": "solid recorded",
+    "section": "Health and lifestyle assessment",
+    "warning": ""
+  },
+  {
+    "from": "054",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "055",
+    "connector": "solid recorded",
+    "section": "Health and lifestyle assessment",
+    "warning": ""
+  },
+  {
+    "from": "055",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "056",
+    "connector": "solid recorded",
+    "section": "Health and lifestyle assessment",
+    "warning": ""
+  },
+  {
+    "from": "056",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "057",
+    "connector": "solid recorded",
+    "section": "Health and lifestyle assessment",
+    "warning": ""
+  },
+  {
+    "from": "057",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "058",
+    "connector": "solid recorded",
+    "section": "Health and lifestyle assessment",
+    "warning": ""
+  },
+  {
+    "from": "058",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "059",
+    "connector": "solid recorded",
+    "section": "Health and lifestyle assessment",
+    "warning": ""
+  },
+  {
+    "from": "059",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "060",
+    "connector": "solid recorded",
+    "section": "Health and lifestyle assessment",
+    "warning": ""
+  },
+  {
+    "from": "060",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "061",
+    "connector": "solid recorded",
+    "section": "Health and lifestyle assessment",
+    "warning": ""
+  },
+  {
+    "from": "061",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "062",
+    "connector": "solid recorded",
+    "section": "Health and lifestyle assessment",
+    "warning": ""
+  },
+  {
+    "from": "062",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "063",
+    "connector": "solid recorded",
+    "section": "Health and lifestyle assessment",
+    "warning": ""
+  },
+  {
+    "from": "063",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "064",
+    "connector": "solid recorded",
+    "section": "Health and lifestyle assessment",
+    "warning": ""
+  },
+  {
+    "from": "064",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "065",
+    "connector": "solid recorded",
+    "section": "Health and lifestyle assessment",
+    "warning": ""
+  },
+  {
+    "from": "065",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "066",
+    "connector": "solid recorded",
+    "section": "Health and lifestyle assessment",
+    "warning": ""
+  },
+  {
+    "from": "066",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "067",
+    "connector": "solid recorded",
+    "section": "Health and lifestyle assessment",
+    "warning": ""
+  },
+  {
+    "from": "067",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "068",
+    "connector": "solid recorded",
+    "section": "Health and lifestyle assessment",
+    "warning": ""
+  },
+  {
+    "from": "068",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "069",
+    "connector": "solid recorded",
+    "section": "Health and lifestyle assessment",
+    "warning": ""
+  },
+  {
+    "from": "069",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "070",
+    "connector": "solid recorded",
+    "section": "Health and lifestyle assessment",
+    "warning": ""
+  },
+  {
+    "from": "070",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "071",
+    "connector": "solid recorded",
+    "section": "Health and lifestyle assessment",
+    "warning": ""
+  },
+  {
+    "from": "071",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "072",
+    "connector": "solid recorded",
+    "section": "Health and lifestyle assessment",
+    "warning": ""
+  },
+  {
+    "from": "072",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "073",
+    "connector": "solid recorded",
+    "section": "Health and lifestyle assessment",
+    "warning": ""
+  },
+  {
+    "from": "073",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "074",
+    "connector": "solid recorded",
+    "section": "Health and lifestyle assessment",
+    "warning": ""
+  },
+  {
+    "from": "074",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "075",
+    "connector": "solid recorded",
+    "section": "Health and lifestyle assessment",
+    "warning": ""
+  },
+  {
+    "from": "075",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "076",
+    "connector": "solid recorded",
+    "section": "Health and lifestyle assessment",
+    "warning": ""
+  },
+  {
+    "from": "076",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "077",
+    "connector": "solid recorded",
+    "section": "Health and lifestyle assessment",
+    "warning": ""
+  },
+  {
+    "from": "077",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "078",
+    "connector": "solid recorded",
+    "section": "Health and lifestyle assessment",
+    "warning": ""
+  },
+  {
+    "from": "078",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "079",
+    "connector": "solid recorded",
+    "section": "Health and lifestyle assessment",
+    "warning": ""
+  },
+  {
+    "from": "079",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "080",
+    "connector": "solid recorded",
+    "section": "Health and lifestyle assessment",
+    "warning": ""
+  },
+  {
+    "from": "080",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "081",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "081",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "082",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "082",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "083",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "083",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "084",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "084",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "085",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "085",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "086",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "086",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "087",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "087",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "088",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "088",
+    "action": "Observed Premium discovery or plan selection step.",
+    "to": "089",
+    "connector": "solid recorded",
+    "section": "Paywall and pricing",
+    "warning": ""
+  },
+  {
+    "from": "089",
+    "action": "Observed Premium discovery or plan selection step.",
+    "to": "090",
+    "connector": "solid recorded",
+    "section": "Paywall and pricing",
+    "warning": ""
+  },
+  {
+    "from": "090",
+    "action": "Observed Premium discovery or plan selection step.",
+    "to": "091",
+    "connector": "solid recorded",
+    "section": "Paywall and pricing",
+    "warning": ""
+  },
+  {
+    "from": "091",
+    "action": "Observed Premium discovery or plan selection step.",
+    "to": "094",
+    "connector": "solid recorded",
+    "section": "Paywall and pricing",
+    "warning": ""
+  },
+  {
+    "from": "094",
+    "action": "Observed Premium discovery or plan selection step.",
+    "to": "095",
+    "connector": "solid recorded",
+    "section": "Paywall and pricing",
+    "warning": ""
+  },
+  {
+    "from": "095",
+    "action": "Observed Premium discovery or plan selection step.",
+    "to": "097",
+    "connector": "solid recorded",
+    "section": "Paywall and pricing",
+    "warning": ""
+  },
+  {
+    "from": "097",
+    "action": "Observed Premium discovery or plan selection step.",
+    "to": "098",
+    "connector": "solid recorded",
+    "section": "Paywall and pricing",
+    "warning": ""
+  },
+  {
+    "from": "098",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "099",
+    "connector": "solid recorded",
+    "section": "Premium discovery",
+    "warning": ""
+  },
+  {
+    "from": "099",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "100",
+    "connector": "solid recorded",
+    "section": "Premium discovery",
+    "warning": ""
+  },
+  {
+    "from": "100",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "103",
+    "connector": "solid recorded",
+    "section": "Premium discovery",
+    "warning": ""
+  },
+  {
+    "from": "103",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "104",
+    "connector": "solid recorded",
+    "section": "Premium discovery",
+    "warning": ""
+  },
+  {
+    "from": "104",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "105",
+    "connector": "solid recorded",
+    "section": "Premium discovery",
+    "warning": ""
+  },
+  {
+    "from": "105",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "106",
+    "connector": "solid recorded",
+    "section": "Premium discovery",
+    "warning": ""
+  },
+  {
+    "from": "106",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "108",
+    "connector": "solid recorded",
+    "section": "Premium discovery",
+    "warning": ""
+  },
+  {
+    "from": "108",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "114",
+    "connector": "solid recorded",
+    "section": "Premium discovery",
+    "warning": ""
+  },
+  {
+    "from": "114",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "115",
+    "connector": "solid recorded",
+    "section": "Dashboard and daily logging",
+    "warning": ""
+  },
+  {
+    "from": "115",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "116",
+    "connector": "solid recorded",
+    "section": "Dashboard and daily logging",
+    "warning": ""
+  },
+  {
+    "from": "116",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "117",
+    "connector": "solid recorded",
+    "section": "Dashboard and daily logging",
+    "warning": ""
+  },
+  {
+    "from": "117",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "118",
+    "connector": "solid recorded",
+    "section": "Dashboard and daily logging",
+    "warning": ""
+  },
+  {
+    "from": "118",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "119",
+    "connector": "solid recorded",
+    "section": "Dashboard and daily logging",
+    "warning": ""
+  },
+  {
+    "from": "119",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "120",
+    "connector": "solid recorded",
+    "section": "Dashboard and daily logging",
+    "warning": ""
+  },
+  {
+    "from": "120",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "121",
+    "connector": "solid recorded",
+    "section": "Dashboard and daily logging",
+    "warning": ""
+  },
+  {
+    "from": "121",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "122",
+    "connector": "solid recorded",
+    "section": "Dashboard and daily logging",
+    "warning": ""
+  },
+  {
+    "from": "122",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "123",
+    "connector": "solid recorded",
+    "section": "Dashboard and daily logging",
+    "warning": ""
+  },
+  {
+    "from": "123",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "124",
+    "connector": "solid recorded",
+    "section": "Dashboard and daily logging",
+    "warning": ""
+  },
+  {
+    "from": "124",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "125",
+    "connector": "solid recorded",
+    "section": "Dashboard and daily logging",
+    "warning": ""
+  },
+  {
+    "from": "125",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "126",
+    "connector": "solid recorded",
+    "section": "Dashboard and daily logging",
+    "warning": ""
+  },
+  {
+    "from": "126",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "127",
+    "connector": "solid recorded",
+    "section": "Dashboard and daily logging",
+    "warning": ""
+  },
+  {
+    "from": "127",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "128",
+    "connector": "solid recorded",
+    "section": "Dashboard and daily logging",
+    "warning": ""
+  },
+  {
+    "from": "128",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "129",
+    "connector": "solid recorded",
+    "section": "Dashboard and daily logging",
+    "warning": ""
+  },
+  {
+    "from": "129",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "130",
+    "connector": "solid recorded",
+    "section": "Dashboard and daily logging",
+    "warning": ""
+  },
+  {
+    "from": "130",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "131",
+    "connector": "solid recorded",
+    "section": "Dashboard and daily logging",
+    "warning": ""
+  },
+  {
+    "from": "131",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "132",
+    "connector": "solid recorded",
+    "section": "Dashboard and daily logging",
+    "warning": ""
+  },
+  {
+    "from": "132",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "133",
+    "connector": "solid recorded",
+    "section": "Dashboard and daily logging",
+    "warning": ""
+  },
+  {
+    "from": "133",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "134",
+    "connector": "solid recorded",
+    "section": "Dashboard and daily logging",
+    "warning": ""
+  },
+  {
+    "from": "134",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "135",
+    "connector": "solid recorded",
+    "section": "Dashboard and daily logging",
+    "warning": ""
+  },
+  {
+    "from": "135",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "136",
+    "connector": "solid recorded",
+    "section": "Dashboard and daily logging",
+    "warning": ""
+  },
+  {
+    "from": "136",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "137",
+    "connector": "solid recorded",
+    "section": "Dashboard and daily logging",
+    "warning": ""
+  },
+  {
+    "from": "137",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "138",
+    "connector": "solid recorded",
+    "section": "Dashboard and daily logging",
+    "warning": ""
+  },
+  {
+    "from": "138",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "139",
+    "connector": "solid recorded",
+    "section": "Dashboard and daily logging",
+    "warning": ""
+  },
+  {
+    "from": "139",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "140",
+    "connector": "solid recorded",
+    "section": "Dashboard and daily logging",
+    "warning": ""
+  },
+  {
+    "from": "140",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "141",
+    "connector": "solid recorded",
+    "section": "Dashboard and daily logging",
+    "warning": ""
+  },
+  {
+    "from": "141",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "142",
+    "connector": "solid recorded",
+    "section": "Dashboard and daily logging",
+    "warning": ""
+  },
+  {
+    "from": "142",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "143",
+    "connector": "solid recorded",
+    "section": "Dashboard and daily logging",
+    "warning": ""
+  },
+  {
+    "from": "143",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "144",
+    "connector": "solid recorded",
+    "section": "Dashboard and daily logging",
+    "warning": ""
+  },
+  {
+    "from": "144",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "145",
+    "connector": "solid recorded",
+    "section": "Dashboard and daily logging",
+    "warning": ""
+  },
+  {
+    "from": "145",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "146",
+    "connector": "solid recorded",
+    "section": "Dashboard and daily logging",
+    "warning": ""
+  },
+  {
+    "from": "146",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "147",
+    "connector": "solid recorded",
+    "section": "Dashboard and daily logging",
+    "warning": ""
+  },
+  {
+    "from": "147",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "148",
+    "connector": "solid recorded",
+    "section": "Dashboard",
+    "warning": ""
+  },
+  {
+    "from": "148",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "149",
+    "connector": "solid recorded",
+    "section": "Dashboard",
+    "warning": ""
+  },
+  {
+    "from": "149",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "150",
+    "connector": "solid recorded",
+    "section": "Dashboard",
+    "warning": ""
+  },
+  {
+    "from": "150",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "151",
+    "connector": "solid recorded",
+    "section": "Dashboard",
+    "warning": ""
+  },
+  {
+    "from": "151",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "152",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "152",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "153",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "153",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "154",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "154",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "155",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "155",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "156",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "156",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "157",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "157",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "158",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "158",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "159",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "159",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "160",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "160",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "161",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "161",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "162",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "162",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "163",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "163",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "164",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "164",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "165",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "165",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "166",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "166",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "167",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "167",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "168",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "168",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "169",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "169",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "170",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "170",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "171",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "171",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "172",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "172",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "173",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "173",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "174",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "174",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "175",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "175",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "176",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "176",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "177",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "177",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "178",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "178",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "179",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "179",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "180",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "180",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "181",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "181",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "182",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "182",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "183",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "183",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "184",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "184",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "185",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "185",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "186",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "186",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "187",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "187",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "188",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "188",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "189",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "189",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "190",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "190",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "191",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "191",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "192",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "192",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "193",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "193",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "194",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "194",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "195",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "195",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "196",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "196",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "197",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "197",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "198",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "198",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "199",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "199",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "200",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "200",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "201",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "201",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "202",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "202",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "203",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "203",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "204",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "204",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "205",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "205",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "206",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "206",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "207",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "207",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "208",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "208",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "209",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "209",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "210",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "210",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "211",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "211",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "212",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "212",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "213",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "213",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "214",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "214",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "215",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "215",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "216",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "216",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "217",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "217",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "218",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "218",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "219",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "219",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "220",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "220",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "221",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "221",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "222",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "222",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "223",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "223",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "224",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "224",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "225",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "225",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "226",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "226",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "227",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "227",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "228",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "228",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "229",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "229",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "230",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "230",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "231",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "231",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "232",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "232",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "233",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "233",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "234",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "234",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "235",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "235",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "236",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "236",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "237",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "237",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "238",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "238",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "239",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "239",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "240",
+    "connector": "solid recorded",
+    "section": "Insights and educational content",
+    "warning": ""
+  },
+  {
+    "from": "240",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "241",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "241",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "242",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "242",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "243",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "243",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "244",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "244",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "245",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "245",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "246",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "246",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "247",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "247",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "248",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "248",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "249",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "249",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "250",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "250",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "251",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "251",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "252",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "252",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "253",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "253",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "254",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "254",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "255",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "255",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "256",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "256",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "257",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "257",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "258",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "258",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "259",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "259",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "260",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "260",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "261",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "261",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "262",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "262",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "263",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "263",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "264",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "264",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "265",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "265",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "266",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "266",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "267",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "267",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "268",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "268",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "269",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "269",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "270",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "270",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "271",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "271",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "272",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "272",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "273",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "273",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "274",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "274",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "275",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "275",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "276",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "276",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "277",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "277",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "278",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "278",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "279",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "279",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "280",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "280",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "281",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "281",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "282",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "282",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "283",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "283",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "284",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "284",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "285",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "285",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "286",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "286",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "287",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "287",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "288",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "288",
+    "action": "Observed chat continuation or answer selection.",
+    "to": "289",
+    "connector": "solid recorded",
+    "section": "Health Assistant/chat",
+    "warning": ""
+  },
+  {
+    "from": "289",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "290",
+    "connector": "solid recorded",
+    "section": "Settings and account controls",
+    "warning": ""
+  },
+  {
+    "from": "290",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "291",
+    "connector": "solid recorded",
+    "section": "Settings and account controls",
+    "warning": ""
+  },
+  {
+    "from": "291",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "292",
+    "connector": "solid recorded",
+    "section": "Settings and account controls",
+    "warning": ""
+  },
+  {
+    "from": "292",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "293",
+    "connector": "solid recorded",
+    "section": "Settings and account controls",
+    "warning": ""
+  },
+  {
+    "from": "293",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "294",
+    "connector": "solid recorded",
+    "section": "Settings and account controls",
+    "warning": ""
+  },
+  {
+    "from": "294",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "295",
+    "connector": "solid recorded",
+    "section": "Settings and account controls",
+    "warning": ""
+  },
+  {
+    "from": "295",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "296",
+    "connector": "solid recorded",
+    "section": "Settings and account controls",
+    "warning": ""
+  },
+  {
+    "from": "296",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "297",
+    "connector": "solid recorded",
+    "section": "Settings and account controls",
+    "warning": ""
+  },
+  {
+    "from": "297",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "298",
+    "connector": "solid recorded",
+    "section": "Settings and account controls",
+    "warning": ""
+  },
+  {
+    "from": "298",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "299",
+    "connector": "solid recorded",
+    "section": "Settings and account controls",
+    "warning": ""
+  },
+  {
+    "from": "299",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "300",
+    "connector": "solid recorded",
+    "section": "Settings and account controls",
+    "warning": ""
+  },
+  {
+    "from": "300",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "301",
+    "connector": "solid recorded",
+    "section": "Goal and intent selection",
+    "warning": ""
+  },
+  {
+    "from": "301",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "302",
+    "connector": "solid recorded",
+    "section": "Goal and intent selection",
+    "warning": ""
+  },
+  {
+    "from": "302",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "303",
+    "connector": "solid recorded",
+    "section": "Goal and intent selection",
+    "warning": ""
+  },
+  {
+    "from": "303",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "304",
+    "connector": "solid recorded",
+    "section": "Goal and intent selection",
+    "warning": ""
+  },
+  {
+    "from": "304",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "305",
+    "connector": "solid recorded",
+    "section": "Goal and intent selection",
+    "warning": ""
+  },
+  {
+    "from": "305",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "306",
+    "connector": "solid recorded",
+    "section": "Goal and intent selection",
+    "warning": ""
+  },
+  {
+    "from": "306",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "307",
+    "connector": "solid recorded",
+    "section": "Goal and intent selection",
+    "warning": ""
+  },
+  {
+    "from": "307",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "308",
+    "connector": "solid recorded",
+    "section": "Goal and intent selection",
+    "warning": ""
+  },
+  {
+    "from": "308",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "309",
+    "connector": "solid recorded",
+    "section": "Goal and intent selection",
+    "warning": ""
+  },
+  {
+    "from": "309",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "310",
+    "connector": "solid recorded",
+    "section": "Goal and intent selection",
+    "warning": ""
+  },
+  {
+    "from": "310",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "311",
+    "connector": "solid recorded",
+    "section": "Goal and intent selection",
+    "warning": ""
+  },
+  {
+    "from": "311",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "312",
+    "connector": "solid recorded",
+    "section": "Goal and intent selection",
+    "warning": ""
+  },
+  {
+    "from": "312",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "313",
+    "connector": "solid recorded",
+    "section": "Goal and intent selection",
+    "warning": ""
+  },
+  {
+    "from": "313",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "314",
+    "connector": "solid recorded",
+    "section": "Goal and intent selection",
+    "warning": ""
+  },
+  {
+    "from": "314",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "315",
+    "connector": "solid recorded",
+    "section": "Goal and intent selection",
+    "warning": ""
+  },
+  {
+    "from": "315",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "316",
+    "connector": "solid recorded",
+    "section": "Goal and intent selection",
+    "warning": ""
+  },
+  {
+    "from": "316",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "317",
+    "connector": "solid recorded",
+    "section": "Goal and intent selection",
+    "warning": ""
+  },
+  {
+    "from": "317",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "318",
+    "connector": "solid recorded",
+    "section": "Goal and intent selection",
+    "warning": ""
+  },
+  {
+    "from": "318",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "319",
+    "connector": "solid recorded",
+    "section": "Goal and intent selection",
+    "warning": ""
+  },
+  {
+    "from": "319",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "320",
+    "connector": "solid recorded",
+    "section": "Goal and intent selection",
+    "warning": ""
+  },
+  {
+    "from": "320",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "321",
+    "connector": "solid recorded",
+    "section": "Goal and intent selection",
+    "warning": ""
+  },
+  {
+    "from": "321",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "322",
+    "connector": "solid recorded",
+    "section": "Dashboard and insights",
+    "warning": ""
+  },
+  {
+    "from": "322",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "323",
+    "connector": "solid recorded",
+    "section": "Dashboard and insights",
+    "warning": ""
+  },
+  {
+    "from": "323",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "324",
+    "connector": "solid recorded",
+    "section": "Dashboard and insights",
+    "warning": ""
+  },
+  {
+    "from": "324",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "325",
+    "connector": "solid recorded",
+    "section": "Dashboard and insights",
+    "warning": ""
+  },
+  {
+    "from": "325",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "326",
+    "connector": "solid recorded",
+    "section": "Dashboard and insights",
+    "warning": ""
+  },
+  {
+    "from": "326",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "327",
+    "connector": "solid recorded",
+    "section": "Dashboard and insights",
+    "warning": ""
+  },
+  {
+    "from": "327",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "328",
+    "connector": "solid recorded",
+    "section": "Dashboard and insights",
+    "warning": ""
+  },
+  {
+    "from": "328",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "329",
+    "connector": "solid recorded",
+    "section": "Dashboard and insights",
+    "warning": ""
+  },
+  {
+    "from": "329",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "330",
+    "connector": "solid recorded",
+    "section": "Dashboard and insights",
+    "warning": ""
+  },
+  {
+    "from": "330",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "331",
+    "connector": "solid recorded",
+    "section": "Dashboard and insights",
+    "warning": ""
+  },
+  {
+    "from": "331",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "332",
+    "connector": "solid recorded",
+    "section": "Dashboard and insights",
+    "warning": ""
+  },
+  {
+    "from": "332",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "333",
+    "connector": "solid recorded",
+    "section": "Dashboard and insights",
+    "warning": ""
+  },
+  {
+    "from": "333",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "334",
+    "connector": "solid recorded",
+    "section": "Dashboard and insights",
+    "warning": ""
+  },
+  {
+    "from": "334",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "335",
+    "connector": "solid recorded",
+    "section": "Dashboard and insights",
+    "warning": ""
+  },
+  {
+    "from": "335",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "336",
+    "connector": "solid recorded",
+    "section": "Dashboard and insights",
+    "warning": ""
+  },
+  {
+    "from": "336",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "337",
+    "connector": "solid recorded",
+    "section": "Dashboard and insights",
+    "warning": ""
+  },
+  {
+    "from": "337",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "338",
+    "connector": "solid recorded",
+    "section": "Dashboard and insights",
+    "warning": ""
+  },
+  {
+    "from": "338",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "339",
+    "connector": "solid recorded",
+    "section": "Dashboard and insights",
+    "warning": ""
+  },
+  {
+    "from": "339",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "340",
+    "connector": "solid recorded",
+    "section": "Dashboard and insights",
+    "warning": ""
+  },
+  {
+    "from": "340",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "341",
+    "connector": "solid recorded",
+    "section": "Dashboard and insights",
+    "warning": ""
+  },
+  {
+    "from": "341",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "342",
+    "connector": "solid recorded",
+    "section": "Partner Mode",
+    "warning": ""
+  },
+  {
+    "from": "342",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "343",
+    "connector": "solid recorded",
+    "section": "Partner Mode",
+    "warning": ""
+  },
+  {
+    "from": "343",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "344",
+    "connector": "solid recorded",
+    "section": "Partner Mode",
+    "warning": ""
+  },
+  {
+    "from": "344",
+    "action": "Observed Continue, selection, scroll, or navigation action.",
+    "to": "345",
+    "connector": "solid recorded",
+    "section": "Partner Mode",
+    "warning": ""
+  },
+  {
+    "from": "345",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "346",
+    "connector": "solid recorded",
+    "section": "Pregnancy dashboard",
+    "warning": ""
+  },
+  {
+    "from": "346",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "347",
+    "connector": "solid recorded",
+    "section": "Pregnancy dashboard",
+    "warning": ""
+  },
+  {
+    "from": "347",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "348",
+    "connector": "solid recorded",
+    "section": "Pregnancy dashboard",
+    "warning": ""
+  },
+  {
+    "from": "348",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "349",
+    "connector": "solid recorded",
+    "section": "Pregnancy dashboard",
+    "warning": ""
+  },
+  {
+    "from": "349",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "350",
+    "connector": "solid recorded",
+    "section": "Pregnancy dashboard",
+    "warning": ""
+  },
+  {
+    "from": "350",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "351",
+    "connector": "solid recorded",
+    "section": "Pregnancy dashboard",
+    "warning": ""
+  },
+  {
+    "from": "351",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "352",
+    "connector": "solid recorded",
+    "section": "Pregnancy dashboard",
+    "warning": ""
+  },
+  {
+    "from": "352",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "353",
+    "connector": "solid recorded",
+    "section": "Pregnancy dashboard",
+    "warning": ""
+  },
+  {
+    "from": "353",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "354",
+    "connector": "solid recorded",
+    "section": "Pregnancy dashboard",
+    "warning": ""
+  },
+  {
+    "from": "354",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "355",
+    "connector": "solid recorded",
+    "section": "Pregnancy dashboard",
+    "warning": ""
+  },
+  {
+    "from": "355",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "356",
+    "connector": "solid recorded",
+    "section": "Pregnancy dashboard",
+    "warning": ""
+  },
+  {
+    "from": "356",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "357",
+    "connector": "solid recorded",
+    "section": "Pregnancy dashboard",
+    "warning": ""
+  },
+  {
+    "from": "357",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "358",
+    "connector": "solid recorded",
+    "section": "Pregnancy dashboard",
+    "warning": ""
+  },
+  {
+    "from": "358",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "359",
+    "connector": "solid recorded",
+    "section": "Pregnancy dashboard",
+    "warning": ""
+  },
+  {
+    "from": "359",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "360",
+    "connector": "solid recorded",
+    "section": "Pregnancy dashboard",
+    "warning": ""
+  },
+  {
+    "from": "360",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "361",
+    "connector": "solid recorded",
+    "section": "Pregnancy dashboard",
+    "warning": ""
+  },
+  {
+    "from": "361",
+    "action": "Observed tap, scroll, calendar edit, tab change, or dashboard navigation.",
+    "to": "None",
+    "connector": "solid recorded",
+    "section": "Pregnancy dashboard",
+    "warning": "Destination not captured"
+  }
+]

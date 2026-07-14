@@ -1,0 +1,2845 @@
+{
+  "title": "Clue Recorded User Flow",
+  "principle": "Manual Clue screenshots are prepended in filename order, then the remaining video-derived sequence continues after old 004.",
+  "nodes": [
+    {
+      "id": "001",
+      "title": "Imported Clue Screen 22",
+      "section": "App entry"
+    },
+    {
+      "id": "002",
+      "title": "Imported Clue Screen 25",
+      "section": "App entry"
+    },
+    {
+      "id": "003",
+      "title": "Imported Clue Screen 25-1",
+      "section": "App entry"
+    },
+    {
+      "id": "004",
+      "title": "Imported Clue Screen 25-2",
+      "section": "App entry"
+    },
+    {
+      "id": "005",
+      "title": "Imported Clue Screen 25-3",
+      "section": "App entry"
+    },
+    {
+      "id": "006",
+      "title": "Imported Clue Screen 26",
+      "section": "App entry"
+    },
+    {
+      "id": "007",
+      "title": "Imported Clue Screen 26-1",
+      "section": "App entry"
+    },
+    {
+      "id": "008",
+      "title": "Imported Clue Screen 26-2",
+      "section": "App entry"
+    },
+    {
+      "id": "009",
+      "title": "Imported Clue Screen 27",
+      "section": "App entry"
+    },
+    {
+      "id": "010",
+      "title": "Imported Clue Screen 27-1",
+      "section": "App entry"
+    },
+    {
+      "id": "011",
+      "title": "Imported Clue Screen 28",
+      "section": "App entry"
+    },
+    {
+      "id": "012",
+      "title": "Imported Clue Screen 28-1",
+      "section": "App entry"
+    },
+    {
+      "id": "013",
+      "title": "Imported Clue Screen 29",
+      "section": "App entry"
+    },
+    {
+      "id": "014",
+      "title": "Imported Clue Screen 87",
+      "section": "App entry"
+    },
+    {
+      "id": "015",
+      "title": "Imported Clue Screen 87-1",
+      "section": "App entry"
+    },
+    {
+      "id": "016",
+      "title": "Imported Clue Screen 87-2",
+      "section": "App entry"
+    },
+    {
+      "id": "017",
+      "title": "Imported Clue Screen 87-3",
+      "section": "App entry"
+    },
+    {
+      "id": "018",
+      "title": "Imported Clue Screen 87-4",
+      "section": "App entry"
+    },
+    {
+      "id": "019",
+      "title": "Imported Clue Screen 88",
+      "section": "App entry"
+    },
+    {
+      "id": "020",
+      "title": "Imported Clue Screen 89",
+      "section": "App entry"
+    },
+    {
+      "id": "021",
+      "title": "Imported Clue Screen 89-1",
+      "section": "App entry"
+    },
+    {
+      "id": "022",
+      "title": "Imported Clue Screen 89-2",
+      "section": "App entry"
+    },
+    {
+      "id": "023",
+      "title": "Imported Clue Screen 90",
+      "section": "App entry"
+    },
+    {
+      "id": "024",
+      "title": "Imported Clue Screen 90-1",
+      "section": "App entry"
+    },
+    {
+      "id": "025",
+      "title": "Daily Check In",
+      "section": "Current cycle dashboard"
+    },
+    {
+      "id": "026",
+      "title": "Current Cycle Dashboard State",
+      "section": "Current cycle dashboard"
+    },
+    {
+      "id": "027",
+      "title": "Current Cycle Dashboard State",
+      "section": "Current cycle dashboard"
+    },
+    {
+      "id": "028",
+      "title": "Tracking Categories",
+      "section": "Current cycle dashboard"
+    },
+    {
+      "id": "029",
+      "title": "Current Cycle Dashboard State",
+      "section": "Current cycle dashboard"
+    },
+    {
+      "id": "030",
+      "title": "Current Cycle Dashboard State",
+      "section": "Current cycle dashboard"
+    },
+    {
+      "id": "031",
+      "title": "Current Cycle Dashboard State",
+      "section": "Current cycle dashboard"
+    },
+    {
+      "id": "032",
+      "title": "Birth Control Settings",
+      "section": "Current cycle dashboard"
+    },
+    {
+      "id": "033",
+      "title": "Daily Check-In Tracking State",
+      "section": "Daily check-in and tracking"
+    },
+    {
+      "id": "034",
+      "title": "Daily Check-In Tracking State",
+      "section": "Daily check-in and tracking"
+    },
+    {
+      "id": "035",
+      "title": "Daily Check-In Tracking State",
+      "section": "Daily check-in and tracking"
+    },
+    {
+      "id": "036",
+      "title": "Daily Check-In Tracking State",
+      "section": "Daily check-in and tracking"
+    },
+    {
+      "id": "037",
+      "title": "Daily Check-In Tracking State",
+      "section": "Daily check-in and tracking"
+    },
+    {
+      "id": "038",
+      "title": "Cycle Phase Education",
+      "section": "Daily check-in and tracking"
+    },
+    {
+      "id": "039",
+      "title": "Daily Check-In Tracking State",
+      "section": "Daily check-in and tracking"
+    },
+    {
+      "id": "040",
+      "title": "Daily Check-In Tracking State",
+      "section": "Daily check-in and tracking"
+    },
+    {
+      "id": "041",
+      "title": "Daily Check-In Tracking State",
+      "section": "Daily check-in and tracking"
+    },
+    {
+      "id": "042",
+      "title": "Daily Check-In Tracking State",
+      "section": "Daily check-in and tracking"
+    },
+    {
+      "id": "043",
+      "title": "Daily Check-In Tracking State",
+      "section": "Daily check-in and tracking"
+    },
+    {
+      "id": "044",
+      "title": "Daily Check-In Tracking State",
+      "section": "Daily check-in and tracking"
+    },
+    {
+      "id": "045",
+      "title": "Articles Health Education",
+      "section": "Calendar and cycle history"
+    },
+    {
+      "id": "046",
+      "title": "Calendar Cycle History State",
+      "section": "Calendar and cycle history"
+    },
+    {
+      "id": "047",
+      "title": "Calendar Cycle History State",
+      "section": "Calendar and cycle history"
+    },
+    {
+      "id": "048",
+      "title": "Calendar Cycle History State",
+      "section": "Calendar and cycle history"
+    },
+    {
+      "id": "049",
+      "title": "Calendar Cycle History State",
+      "section": "Calendar and cycle history"
+    },
+    {
+      "id": "050",
+      "title": "Calendar Cycle History State",
+      "section": "Calendar and cycle history"
+    },
+    {
+      "id": "051",
+      "title": "Calendar Cycle History State",
+      "section": "Calendar and cycle history"
+    },
+    {
+      "id": "052",
+      "title": "Calendar Cycle History State",
+      "section": "Calendar and cycle history"
+    },
+    {
+      "id": "053",
+      "title": "Calendar Cycle History State",
+      "section": "Calendar and cycle history"
+    },
+    {
+      "id": "054",
+      "title": "Calendar Cycle History State",
+      "section": "Calendar and cycle history"
+    },
+    {
+      "id": "055",
+      "title": "Analysis Statistics",
+      "section": "Calendar and cycle history"
+    },
+    {
+      "id": "056",
+      "title": "Birth-Control Settings State",
+      "section": "Birth-control settings"
+    },
+    {
+      "id": "057",
+      "title": "Birth-Control Settings State",
+      "section": "Birth-control settings"
+    },
+    {
+      "id": "058",
+      "title": "Birth-Control Settings State",
+      "section": "Birth-control settings"
+    },
+    {
+      "id": "059",
+      "title": "Birth-Control Settings State",
+      "section": "Birth-control settings"
+    },
+    {
+      "id": "060",
+      "title": "Birth-Control Settings State",
+      "section": "Birth-control settings"
+    },
+    {
+      "id": "061",
+      "title": "Birth-Control Settings State",
+      "section": "Birth-control settings"
+    },
+    {
+      "id": "062",
+      "title": "Wearable Integrations",
+      "section": "Birth-control settings"
+    },
+    {
+      "id": "063",
+      "title": "Birth-Control Settings State",
+      "section": "Birth-control settings"
+    },
+    {
+      "id": "064",
+      "title": "Birth-Control Settings State",
+      "section": "Birth-control settings"
+    },
+    {
+      "id": "065",
+      "title": "Birth-Control Settings State",
+      "section": "Birth-control settings"
+    },
+    {
+      "id": "066",
+      "title": "Birth-Control Settings State",
+      "section": "Birth-control settings"
+    },
+    {
+      "id": "067",
+      "title": "Birth-Control Settings State",
+      "section": "Birth-control settings"
+    },
+    {
+      "id": "068",
+      "title": "Birth-Control Settings State",
+      "section": "Birth-control settings"
+    },
+    {
+      "id": "069",
+      "title": "Cycle-Phase Education State",
+      "section": "Cycle-phase education"
+    },
+    {
+      "id": "070",
+      "title": "Content Library",
+      "section": "Cycle-phase education"
+    },
+    {
+      "id": "071",
+      "title": "Cycle-Phase Education State",
+      "section": "Cycle-phase education"
+    },
+    {
+      "id": "072",
+      "title": "Cycle-Phase Education State",
+      "section": "Cycle-phase education"
+    },
+    {
+      "id": "073",
+      "title": "Cycle-Phase Education State",
+      "section": "Cycle-phase education"
+    },
+    {
+      "id": "074",
+      "title": "Cycle-Phase Education State",
+      "section": "Cycle-phase education"
+    },
+    {
+      "id": "075",
+      "title": "Cycle-Phase Education State",
+      "section": "Cycle-phase education"
+    },
+    {
+      "id": "076",
+      "title": "Cycle-Phase Education State",
+      "section": "Cycle-phase education"
+    },
+    {
+      "id": "077",
+      "title": "Cycle-Phase Education State",
+      "section": "Cycle-phase education"
+    },
+    {
+      "id": "078",
+      "title": "Sensitive Content",
+      "section": "Cycle-phase education"
+    },
+    {
+      "id": "079",
+      "title": "Cycle-Phase Education State",
+      "section": "Cycle-phase education"
+    },
+    {
+      "id": "080",
+      "title": "Cycle-Phase Education State",
+      "section": "Cycle-phase education"
+    },
+    {
+      "id": "081",
+      "title": "Cycle-Phase Education State",
+      "section": "Cycle-phase education"
+    },
+    {
+      "id": "082",
+      "title": "Cycle-Phase Education State",
+      "section": "Cycle-phase education"
+    },
+    {
+      "id": "083",
+      "title": "Articles Health Education State",
+      "section": "Articles and health education"
+    },
+    {
+      "id": "084",
+      "title": "Articles Health Education State",
+      "section": "Articles and health education"
+    },
+    {
+      "id": "085",
+      "title": "Articles Health Education State",
+      "section": "Articles and health education"
+    },
+    {
+      "id": "086",
+      "title": "Premium Discovery",
+      "section": "Articles and health education"
+    },
+    {
+      "id": "087",
+      "title": "Articles Health Education State",
+      "section": "Articles and health education"
+    },
+    {
+      "id": "088",
+      "title": "Articles Health Education State",
+      "section": "Articles and health education"
+    },
+    {
+      "id": "089",
+      "title": "Articles Health Education State",
+      "section": "Articles and health education"
+    },
+    {
+      "id": "090",
+      "title": "Articles Health Education State",
+      "section": "Articles and health education"
+    },
+    {
+      "id": "091",
+      "title": "Articles Health Education State",
+      "section": "Articles and health education"
+    },
+    {
+      "id": "092",
+      "title": "Articles Health Education State",
+      "section": "Articles and health education"
+    },
+    {
+      "id": "093",
+      "title": "Articles Health Education State",
+      "section": "Articles and health education"
+    },
+    {
+      "id": "094",
+      "title": "Articles Health Education State",
+      "section": "Articles and health education"
+    },
+    {
+      "id": "095",
+      "title": "Articles Health Education State",
+      "section": "Articles and health education"
+    },
+    {
+      "id": "096",
+      "title": "Settings Account",
+      "section": "Articles and health education"
+    },
+    {
+      "id": "097",
+      "title": "Articles Health Education State",
+      "section": "Articles and health education"
+    },
+    {
+      "id": "098",
+      "title": "Articles Health Education State",
+      "section": "Articles and health education"
+    },
+    {
+      "id": "099",
+      "title": "Articles Health Education State",
+      "section": "Articles and health education"
+    },
+    {
+      "id": "100",
+      "title": "Articles Health Education State",
+      "section": "Articles and health education"
+    },
+    {
+      "id": "101",
+      "title": "Articles Health Education State",
+      "section": "Articles and health education"
+    },
+    {
+      "id": "102",
+      "title": "Articles Health Education State",
+      "section": "Articles and health education"
+    },
+    {
+      "id": "103",
+      "title": "Articles Health Education State",
+      "section": "Articles and health education"
+    },
+    {
+      "id": "104",
+      "title": "Articles Health Education State",
+      "section": "Articles and health education"
+    },
+    {
+      "id": "105",
+      "title": "Analysis Statistics State",
+      "section": "Analysis and statistics"
+    },
+    {
+      "id": "106",
+      "title": "Analysis Statistics State",
+      "section": "Analysis and statistics"
+    },
+    {
+      "id": "107",
+      "title": "Analysis Statistics State",
+      "section": "Analysis and statistics"
+    },
+    {
+      "id": "108",
+      "title": "Analysis Statistics State",
+      "section": "Analysis and statistics"
+    },
+    {
+      "id": "109",
+      "title": "Analysis Statistics State",
+      "section": "Analysis and statistics"
+    },
+    {
+      "id": "110",
+      "title": "Analysis Statistics State",
+      "section": "Analysis and statistics"
+    },
+    {
+      "id": "111",
+      "title": "Analysis Statistics State",
+      "section": "Analysis and statistics"
+    },
+    {
+      "id": "112",
+      "title": "Analysis Statistics State",
+      "section": "Analysis and statistics"
+    },
+    {
+      "id": "113",
+      "title": "Analysis Statistics State",
+      "section": "Analysis and statistics"
+    },
+    {
+      "id": "114",
+      "title": "Analysis Statistics State",
+      "section": "Analysis and statistics"
+    },
+    {
+      "id": "115",
+      "title": "Analysis Statistics State",
+      "section": "Analysis and statistics"
+    },
+    {
+      "id": "116",
+      "title": "Analysis Statistics State",
+      "section": "Analysis and statistics"
+    },
+    {
+      "id": "117",
+      "title": "Analysis Statistics State",
+      "section": "Analysis and statistics"
+    },
+    {
+      "id": "118",
+      "title": "Analysis Statistics State",
+      "section": "Analysis and statistics"
+    },
+    {
+      "id": "119",
+      "title": "Analysis Statistics State",
+      "section": "Analysis and statistics"
+    },
+    {
+      "id": "120",
+      "title": "Analysis Statistics State",
+      "section": "Analysis and statistics"
+    },
+    {
+      "id": "121",
+      "title": "Analysis Statistics State",
+      "section": "Analysis and statistics"
+    },
+    {
+      "id": "122",
+      "title": "Analysis Statistics State",
+      "section": "Analysis and statistics"
+    },
+    {
+      "id": "123",
+      "title": "Analysis Statistics State",
+      "section": "Analysis and statistics"
+    },
+    {
+      "id": "124",
+      "title": "Analysis Statistics State",
+      "section": "Analysis and statistics"
+    },
+    {
+      "id": "125",
+      "title": "Wearable Integrations State",
+      "section": "Wearable integrations"
+    },
+    {
+      "id": "126",
+      "title": "Wearable Integrations State",
+      "section": "Wearable integrations"
+    },
+    {
+      "id": "127",
+      "title": "Wearable Integrations State",
+      "section": "Wearable integrations"
+    },
+    {
+      "id": "128",
+      "title": "Wearable Integrations State",
+      "section": "Wearable integrations"
+    },
+    {
+      "id": "129",
+      "title": "Wearable Integrations State",
+      "section": "Wearable integrations"
+    },
+    {
+      "id": "130",
+      "title": "Wearable Integrations State",
+      "section": "Wearable integrations"
+    },
+    {
+      "id": "131",
+      "title": "Wearable Integrations State",
+      "section": "Wearable integrations"
+    },
+    {
+      "id": "132",
+      "title": "Wearable Integrations State",
+      "section": "Wearable integrations"
+    },
+    {
+      "id": "133",
+      "title": "Wearable Integrations State",
+      "section": "Wearable integrations"
+    },
+    {
+      "id": "134",
+      "title": "Wearable Integrations State",
+      "section": "Wearable integrations"
+    },
+    {
+      "id": "135",
+      "title": "Wearable Integrations State",
+      "section": "Wearable integrations"
+    },
+    {
+      "id": "136",
+      "title": "Wearable Integrations State",
+      "section": "Wearable integrations"
+    },
+    {
+      "id": "137",
+      "title": "Wearable Integrations State",
+      "section": "Wearable integrations"
+    },
+    {
+      "id": "138",
+      "title": "Wearable Integrations State",
+      "section": "Wearable integrations"
+    },
+    {
+      "id": "139",
+      "title": "Content Library State",
+      "section": "Content library"
+    },
+    {
+      "id": "140",
+      "title": "Content Library State",
+      "section": "Content library"
+    },
+    {
+      "id": "141",
+      "title": "Content Library State",
+      "section": "Content library"
+    },
+    {
+      "id": "142",
+      "title": "Content Library State",
+      "section": "Content library"
+    },
+    {
+      "id": "143",
+      "title": "Content Library State",
+      "section": "Content library"
+    },
+    {
+      "id": "144",
+      "title": "Content Library State",
+      "section": "Content library"
+    },
+    {
+      "id": "145",
+      "title": "Content Library State",
+      "section": "Content library"
+    },
+    {
+      "id": "146",
+      "title": "Content Library State",
+      "section": "Content library"
+    },
+    {
+      "id": "147",
+      "title": "Content Library State",
+      "section": "Content library"
+    },
+    {
+      "id": "148",
+      "title": "Content Library State",
+      "section": "Content library"
+    },
+    {
+      "id": "149",
+      "title": "Content Library State",
+      "section": "Content library"
+    },
+    {
+      "id": "150",
+      "title": "Content Library State",
+      "section": "Content library"
+    },
+    {
+      "id": "151",
+      "title": "Content Library State",
+      "section": "Content library"
+    },
+    {
+      "id": "152",
+      "title": "Content Library State",
+      "section": "Content library"
+    },
+    {
+      "id": "153",
+      "title": "Content Library State",
+      "section": "Content library"
+    },
+    {
+      "id": "154",
+      "title": "Content Library State",
+      "section": "Content library"
+    },
+    {
+      "id": "155",
+      "title": "Content Library State",
+      "section": "Content library"
+    },
+    {
+      "id": "156",
+      "title": "Content Library State",
+      "section": "Content library"
+    },
+    {
+      "id": "157",
+      "title": "Content Library State",
+      "section": "Content library"
+    },
+    {
+      "id": "158",
+      "title": "Content Library State",
+      "section": "Content library"
+    },
+    {
+      "id": "159",
+      "title": "Sensitive Intimacy Content State",
+      "section": "Sensitive and intimacy content"
+    },
+    {
+      "id": "160",
+      "title": "Sensitive Intimacy Content State",
+      "section": "Sensitive and intimacy content"
+    },
+    {
+      "id": "161",
+      "title": "Sensitive Intimacy Content State",
+      "section": "Sensitive and intimacy content"
+    },
+    {
+      "id": "162",
+      "title": "Sensitive Intimacy Content State",
+      "section": "Sensitive and intimacy content"
+    },
+    {
+      "id": "163",
+      "title": "Sensitive Intimacy Content State",
+      "section": "Sensitive and intimacy content"
+    },
+    {
+      "id": "164",
+      "title": "Sensitive Intimacy Content State",
+      "section": "Sensitive and intimacy content"
+    },
+    {
+      "id": "165",
+      "title": "Sensitive Intimacy Content State",
+      "section": "Sensitive and intimacy content"
+    },
+    {
+      "id": "166",
+      "title": "Sensitive Intimacy Content State",
+      "section": "Sensitive and intimacy content"
+    },
+    {
+      "id": "167",
+      "title": "Sensitive Intimacy Content State",
+      "section": "Sensitive and intimacy content"
+    },
+    {
+      "id": "168",
+      "title": "Sensitive Intimacy Content State",
+      "section": "Sensitive and intimacy content"
+    },
+    {
+      "id": "169",
+      "title": "Sensitive Intimacy Content State",
+      "section": "Sensitive and intimacy content"
+    },
+    {
+      "id": "170",
+      "title": "Sensitive Intimacy Content State",
+      "section": "Sensitive and intimacy content"
+    },
+    {
+      "id": "171",
+      "title": "Sensitive Intimacy Content State",
+      "section": "Sensitive and intimacy content"
+    },
+    {
+      "id": "172",
+      "title": "Sensitive Intimacy Content State",
+      "section": "Sensitive and intimacy content"
+    },
+    {
+      "id": "173",
+      "title": "Sensitive Intimacy Content State",
+      "section": "Sensitive and intimacy content"
+    },
+    {
+      "id": "174",
+      "title": "Sensitive Intimacy Content State",
+      "section": "Sensitive and intimacy content"
+    },
+    {
+      "id": "175",
+      "title": "Premium Discovery Upsell State",
+      "section": "Premium discovery and upsell"
+    },
+    {
+      "id": "176",
+      "title": "Premium Discovery Upsell State",
+      "section": "Premium discovery and upsell"
+    },
+    {
+      "id": "177",
+      "title": "Premium Discovery Upsell State",
+      "section": "Premium discovery and upsell"
+    },
+    {
+      "id": "178",
+      "title": "Premium Discovery Upsell State",
+      "section": "Premium discovery and upsell"
+    },
+    {
+      "id": "179",
+      "title": "Premium Discovery Upsell State",
+      "section": "Premium discovery and upsell"
+    },
+    {
+      "id": "180",
+      "title": "Premium Discovery Upsell State",
+      "section": "Premium discovery and upsell"
+    },
+    {
+      "id": "181",
+      "title": "Premium Discovery Upsell State",
+      "section": "Premium discovery and upsell"
+    },
+    {
+      "id": "182",
+      "title": "Premium Discovery Upsell State",
+      "section": "Premium discovery and upsell"
+    },
+    {
+      "id": "183",
+      "title": "Premium Discovery Upsell State",
+      "section": "Premium discovery and upsell"
+    },
+    {
+      "id": "184",
+      "title": "Premium Discovery Upsell State",
+      "section": "Premium discovery and upsell"
+    },
+    {
+      "id": "185",
+      "title": "Premium Discovery Upsell State",
+      "section": "Premium discovery and upsell"
+    },
+    {
+      "id": "186",
+      "title": "Premium Discovery Upsell State",
+      "section": "Premium discovery and upsell"
+    },
+    {
+      "id": "187",
+      "title": "Premium Discovery Upsell State",
+      "section": "Premium discovery and upsell"
+    },
+    {
+      "id": "188",
+      "title": "Premium Discovery Upsell State",
+      "section": "Premium discovery and upsell"
+    },
+    {
+      "id": "189",
+      "title": "Premium Discovery Upsell State",
+      "section": "Premium discovery and upsell"
+    },
+    {
+      "id": "190",
+      "title": "Premium Discovery Upsell State",
+      "section": "Premium discovery and upsell"
+    },
+    {
+      "id": "191",
+      "title": "Premium Discovery Upsell State",
+      "section": "Premium discovery and upsell"
+    },
+    {
+      "id": "192",
+      "title": "Premium Discovery Upsell State",
+      "section": "Premium discovery and upsell"
+    },
+    {
+      "id": "193",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "194",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "195",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "196",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "197",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "198",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "199",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "200",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "201",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "202",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "203",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "204",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "205",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "206",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "207",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "208",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "209",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "210",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "211",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "212",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "213",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "214",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "215",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "216",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "217",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "218",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "219",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "220",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "221",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "222",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "223",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "224",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "225",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "226",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "227",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "228",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "229",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "230",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "231",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "232",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "233",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "234",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "235",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "236",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    },
+    {
+      "id": "237",
+      "title": "Settings Account Areas State",
+      "section": "Settings and account areas"
+    }
+  ],
+  "links": [
+    {
+      "from": "001",
+      "action": "Manual screenshot inserted before the recorded video sequence.",
+      "to": "002",
+      "type": "supplied screenshot sequence",
+      "section": "App entry"
+    },
+    {
+      "from": "002",
+      "action": "Manual screenshot inserted before the recorded video sequence.",
+      "to": "003",
+      "type": "supplied screenshot sequence",
+      "section": "App entry"
+    },
+    {
+      "from": "003",
+      "action": "Manual screenshot inserted before the recorded video sequence.",
+      "to": "004",
+      "type": "supplied screenshot sequence",
+      "section": "App entry"
+    },
+    {
+      "from": "004",
+      "action": "Manual screenshot inserted before the recorded video sequence.",
+      "to": "005",
+      "type": "supplied screenshot sequence",
+      "section": "App entry"
+    },
+    {
+      "from": "005",
+      "action": "Manual screenshot inserted before the recorded video sequence.",
+      "to": "006",
+      "type": "supplied screenshot sequence",
+      "section": "App entry"
+    },
+    {
+      "from": "006",
+      "action": "Manual screenshot inserted before the recorded video sequence.",
+      "to": "007",
+      "type": "supplied screenshot sequence",
+      "section": "App entry"
+    },
+    {
+      "from": "007",
+      "action": "Manual screenshot inserted before the recorded video sequence.",
+      "to": "008",
+      "type": "supplied screenshot sequence",
+      "section": "App entry"
+    },
+    {
+      "from": "008",
+      "action": "Manual screenshot inserted before the recorded video sequence.",
+      "to": "009",
+      "type": "supplied screenshot sequence",
+      "section": "App entry"
+    },
+    {
+      "from": "009",
+      "action": "Manual screenshot inserted before the recorded video sequence.",
+      "to": "010",
+      "type": "supplied screenshot sequence",
+      "section": "App entry"
+    },
+    {
+      "from": "010",
+      "action": "Manual screenshot inserted before the recorded video sequence.",
+      "to": "011",
+      "type": "supplied screenshot sequence",
+      "section": "App entry"
+    },
+    {
+      "from": "011",
+      "action": "Manual screenshot inserted before the recorded video sequence.",
+      "to": "012",
+      "type": "supplied screenshot sequence",
+      "section": "App entry"
+    },
+    {
+      "from": "012",
+      "action": "Manual screenshot inserted before the recorded video sequence.",
+      "to": "013",
+      "type": "supplied screenshot sequence",
+      "section": "App entry"
+    },
+    {
+      "from": "013",
+      "action": "Manual screenshot inserted before the recorded video sequence.",
+      "to": "014",
+      "type": "supplied screenshot sequence",
+      "section": "App entry"
+    },
+    {
+      "from": "014",
+      "action": "Manual screenshot inserted before the recorded video sequence.",
+      "to": "015",
+      "type": "supplied screenshot sequence",
+      "section": "App entry"
+    },
+    {
+      "from": "015",
+      "action": "Manual screenshot inserted before the recorded video sequence.",
+      "to": "016",
+      "type": "supplied screenshot sequence",
+      "section": "App entry"
+    },
+    {
+      "from": "016",
+      "action": "Manual screenshot inserted before the recorded video sequence.",
+      "to": "017",
+      "type": "supplied screenshot sequence",
+      "section": "App entry"
+    },
+    {
+      "from": "017",
+      "action": "Manual screenshot inserted before the recorded video sequence.",
+      "to": "018",
+      "type": "supplied screenshot sequence",
+      "section": "App entry"
+    },
+    {
+      "from": "018",
+      "action": "Manual screenshot inserted before the recorded video sequence.",
+      "to": "019",
+      "type": "supplied screenshot sequence",
+      "section": "App entry"
+    },
+    {
+      "from": "019",
+      "action": "Manual screenshot inserted before the recorded video sequence.",
+      "to": "020",
+      "type": "supplied screenshot sequence",
+      "section": "App entry"
+    },
+    {
+      "from": "020",
+      "action": "Manual screenshot inserted before the recorded video sequence.",
+      "to": "021",
+      "type": "supplied screenshot sequence",
+      "section": "App entry"
+    },
+    {
+      "from": "021",
+      "action": "Manual screenshot inserted before the recorded video sequence.",
+      "to": "022",
+      "type": "supplied screenshot sequence",
+      "section": "App entry"
+    },
+    {
+      "from": "022",
+      "action": "Manual screenshot inserted before the recorded video sequence.",
+      "to": "023",
+      "type": "supplied screenshot sequence",
+      "section": "App entry"
+    },
+    {
+      "from": "023",
+      "action": "Manual screenshot inserted before the recorded video sequence.",
+      "to": "024",
+      "type": "supplied screenshot sequence",
+      "section": "App entry"
+    },
+    {
+      "from": "024",
+      "action": "Manual screenshot inserted before the recorded video sequence.",
+      "to": "025",
+      "type": "supplied screenshot sequence",
+      "section": "App entry"
+    },
+    {
+      "from": "025",
+      "action": "Next observed action in recording",
+      "to": "026",
+      "type": "recorded",
+      "section": "Current cycle dashboard"
+    },
+    {
+      "from": "026",
+      "action": "Next observed action in recording",
+      "to": "027",
+      "type": "recorded",
+      "section": "Current cycle dashboard"
+    },
+    {
+      "from": "027",
+      "action": "Next observed action in recording",
+      "to": "028",
+      "type": "recorded",
+      "section": "Current cycle dashboard"
+    },
+    {
+      "from": "028",
+      "action": "Next observed action in recording",
+      "to": "029",
+      "type": "recorded",
+      "section": "Current cycle dashboard"
+    },
+    {
+      "from": "029",
+      "action": "Next observed action in recording",
+      "to": "030",
+      "type": "recorded",
+      "section": "Current cycle dashboard"
+    },
+    {
+      "from": "030",
+      "action": "Next observed action in recording",
+      "to": "031",
+      "type": "recorded",
+      "section": "Current cycle dashboard"
+    },
+    {
+      "from": "031",
+      "action": "Next observed action in recording",
+      "to": "032",
+      "type": "recorded",
+      "section": "Current cycle dashboard"
+    },
+    {
+      "from": "032",
+      "action": "Next observed action in recording",
+      "to": "033",
+      "type": "recorded",
+      "section": "Current cycle dashboard"
+    },
+    {
+      "from": "033",
+      "action": "Next observed action in recording",
+      "to": "034",
+      "type": "recorded",
+      "section": "Daily check-in and tracking"
+    },
+    {
+      "from": "034",
+      "action": "Next observed action in recording",
+      "to": "035",
+      "type": "recorded",
+      "section": "Daily check-in and tracking"
+    },
+    {
+      "from": "035",
+      "action": "Next observed action in recording",
+      "to": "036",
+      "type": "recorded",
+      "section": "Daily check-in and tracking"
+    },
+    {
+      "from": "036",
+      "action": "Next observed action in recording",
+      "to": "037",
+      "type": "recorded",
+      "section": "Daily check-in and tracking"
+    },
+    {
+      "from": "037",
+      "action": "Next observed action in recording",
+      "to": "038",
+      "type": "recorded",
+      "section": "Daily check-in and tracking"
+    },
+    {
+      "from": "038",
+      "action": "Next observed action in recording",
+      "to": "039",
+      "type": "recorded",
+      "section": "Daily check-in and tracking"
+    },
+    {
+      "from": "039",
+      "action": "Next observed action in recording",
+      "to": "040",
+      "type": "recorded",
+      "section": "Daily check-in and tracking"
+    },
+    {
+      "from": "040",
+      "action": "Next observed action in recording",
+      "to": "041",
+      "type": "recorded",
+      "section": "Daily check-in and tracking"
+    },
+    {
+      "from": "041",
+      "action": "Next observed action in recording",
+      "to": "042",
+      "type": "recorded",
+      "section": "Daily check-in and tracking"
+    },
+    {
+      "from": "042",
+      "action": "Next observed action in recording",
+      "to": "043",
+      "type": "recorded",
+      "section": "Daily check-in and tracking"
+    },
+    {
+      "from": "043",
+      "action": "Next observed action in recording",
+      "to": "044",
+      "type": "recorded",
+      "section": "Daily check-in and tracking"
+    },
+    {
+      "from": "044",
+      "action": "Next observed action in recording",
+      "to": "045",
+      "type": "recorded",
+      "section": "Daily check-in and tracking"
+    },
+    {
+      "from": "045",
+      "action": "Next observed action in recording",
+      "to": "046",
+      "type": "recorded",
+      "section": "Calendar and cycle history"
+    },
+    {
+      "from": "046",
+      "action": "Next observed action in recording",
+      "to": "047",
+      "type": "recorded",
+      "section": "Calendar and cycle history"
+    },
+    {
+      "from": "047",
+      "action": "Next observed action in recording",
+      "to": "048",
+      "type": "recorded",
+      "section": "Calendar and cycle history"
+    },
+    {
+      "from": "048",
+      "action": "Next observed action in recording",
+      "to": "049",
+      "type": "recorded",
+      "section": "Calendar and cycle history"
+    },
+    {
+      "from": "049",
+      "action": "Next observed action in recording",
+      "to": "050",
+      "type": "recorded",
+      "section": "Calendar and cycle history"
+    },
+    {
+      "from": "050",
+      "action": "Next observed action in recording",
+      "to": "051",
+      "type": "recorded",
+      "section": "Calendar and cycle history"
+    },
+    {
+      "from": "051",
+      "action": "Next observed action in recording",
+      "to": "052",
+      "type": "recorded",
+      "section": "Calendar and cycle history"
+    },
+    {
+      "from": "052",
+      "action": "Next observed action in recording",
+      "to": "053",
+      "type": "recorded",
+      "section": "Calendar and cycle history"
+    },
+    {
+      "from": "053",
+      "action": "Next observed action in recording",
+      "to": "054",
+      "type": "recorded",
+      "section": "Calendar and cycle history"
+    },
+    {
+      "from": "054",
+      "action": "Next observed action in recording",
+      "to": "055",
+      "type": "recorded",
+      "section": "Calendar and cycle history"
+    },
+    {
+      "from": "055",
+      "action": "Next observed action in recording",
+      "to": "056",
+      "type": "recorded",
+      "section": "Calendar and cycle history"
+    },
+    {
+      "from": "056",
+      "action": "Next observed action in recording",
+      "to": "057",
+      "type": "recorded",
+      "section": "Birth-control settings"
+    },
+    {
+      "from": "057",
+      "action": "Next observed action in recording",
+      "to": "058",
+      "type": "recorded",
+      "section": "Birth-control settings"
+    },
+    {
+      "from": "058",
+      "action": "Next observed action in recording",
+      "to": "059",
+      "type": "recorded",
+      "section": "Birth-control settings"
+    },
+    {
+      "from": "059",
+      "action": "Next observed action in recording",
+      "to": "060",
+      "type": "recorded",
+      "section": "Birth-control settings"
+    },
+    {
+      "from": "060",
+      "action": "Next observed action in recording",
+      "to": "061",
+      "type": "recorded",
+      "section": "Birth-control settings"
+    },
+    {
+      "from": "061",
+      "action": "Next observed action in recording",
+      "to": "062",
+      "type": "recorded",
+      "section": "Birth-control settings"
+    },
+    {
+      "from": "062",
+      "action": "Next observed action in recording",
+      "to": "063",
+      "type": "recorded",
+      "section": "Birth-control settings"
+    },
+    {
+      "from": "063",
+      "action": "Next observed action in recording",
+      "to": "064",
+      "type": "recorded",
+      "section": "Birth-control settings"
+    },
+    {
+      "from": "064",
+      "action": "Next observed action in recording",
+      "to": "065",
+      "type": "recorded",
+      "section": "Birth-control settings"
+    },
+    {
+      "from": "065",
+      "action": "Next observed action in recording",
+      "to": "066",
+      "type": "recorded",
+      "section": "Birth-control settings"
+    },
+    {
+      "from": "066",
+      "action": "Next observed action in recording",
+      "to": "067",
+      "type": "recorded",
+      "section": "Birth-control settings"
+    },
+    {
+      "from": "067",
+      "action": "Next observed action in recording",
+      "to": "068",
+      "type": "recorded",
+      "section": "Birth-control settings"
+    },
+    {
+      "from": "068",
+      "action": "Next observed action in recording",
+      "to": "069",
+      "type": "recorded",
+      "section": "Birth-control settings"
+    },
+    {
+      "from": "069",
+      "action": "Next observed action in recording",
+      "to": "070",
+      "type": "recorded",
+      "section": "Cycle-phase education"
+    },
+    {
+      "from": "070",
+      "action": "Next observed action in recording",
+      "to": "071",
+      "type": "recorded",
+      "section": "Cycle-phase education"
+    },
+    {
+      "from": "071",
+      "action": "Next observed action in recording",
+      "to": "072",
+      "type": "recorded",
+      "section": "Cycle-phase education"
+    },
+    {
+      "from": "072",
+      "action": "Next observed action in recording",
+      "to": "073",
+      "type": "recorded",
+      "section": "Cycle-phase education"
+    },
+    {
+      "from": "073",
+      "action": "Next observed action in recording",
+      "to": "074",
+      "type": "recorded",
+      "section": "Cycle-phase education"
+    },
+    {
+      "from": "074",
+      "action": "Next observed action in recording",
+      "to": "075",
+      "type": "recorded",
+      "section": "Cycle-phase education"
+    },
+    {
+      "from": "075",
+      "action": "Next observed action in recording",
+      "to": "076",
+      "type": "recorded",
+      "section": "Cycle-phase education"
+    },
+    {
+      "from": "076",
+      "action": "Next observed action in recording",
+      "to": "077",
+      "type": "recorded",
+      "section": "Cycle-phase education"
+    },
+    {
+      "from": "077",
+      "action": "Next observed action in recording",
+      "to": "078",
+      "type": "recorded",
+      "section": "Cycle-phase education"
+    },
+    {
+      "from": "078",
+      "action": "Next observed action in recording",
+      "to": "079",
+      "type": "recorded",
+      "section": "Cycle-phase education"
+    },
+    {
+      "from": "079",
+      "action": "Next observed action in recording",
+      "to": "080",
+      "type": "recorded",
+      "section": "Cycle-phase education"
+    },
+    {
+      "from": "080",
+      "action": "Next observed action in recording",
+      "to": "081",
+      "type": "recorded",
+      "section": "Cycle-phase education"
+    },
+    {
+      "from": "081",
+      "action": "Next observed action in recording",
+      "to": "082",
+      "type": "recorded",
+      "section": "Cycle-phase education"
+    },
+    {
+      "from": "082",
+      "action": "Next observed action in recording",
+      "to": "083",
+      "type": "recorded",
+      "section": "Cycle-phase education"
+    },
+    {
+      "from": "083",
+      "action": "Next observed action in recording",
+      "to": "084",
+      "type": "recorded",
+      "section": "Articles and health education"
+    },
+    {
+      "from": "084",
+      "action": "Next observed action in recording",
+      "to": "085",
+      "type": "recorded",
+      "section": "Articles and health education"
+    },
+    {
+      "from": "085",
+      "action": "Next observed action in recording",
+      "to": "086",
+      "type": "recorded",
+      "section": "Articles and health education"
+    },
+    {
+      "from": "086",
+      "action": "Next observed action in recording",
+      "to": "087",
+      "type": "recorded",
+      "section": "Articles and health education"
+    },
+    {
+      "from": "087",
+      "action": "Next observed action in recording",
+      "to": "088",
+      "type": "recorded",
+      "section": "Articles and health education"
+    },
+    {
+      "from": "088",
+      "action": "Next observed action in recording",
+      "to": "089",
+      "type": "recorded",
+      "section": "Articles and health education"
+    },
+    {
+      "from": "089",
+      "action": "Next observed action in recording",
+      "to": "090",
+      "type": "recorded",
+      "section": "Articles and health education"
+    },
+    {
+      "from": "090",
+      "action": "Next observed action in recording",
+      "to": "091",
+      "type": "recorded",
+      "section": "Articles and health education"
+    },
+    {
+      "from": "091",
+      "action": "Next observed action in recording",
+      "to": "092",
+      "type": "recorded",
+      "section": "Articles and health education"
+    },
+    {
+      "from": "092",
+      "action": "Next observed action in recording",
+      "to": "093",
+      "type": "recorded",
+      "section": "Articles and health education"
+    },
+    {
+      "from": "093",
+      "action": "Next observed action in recording",
+      "to": "094",
+      "type": "recorded",
+      "section": "Articles and health education"
+    },
+    {
+      "from": "094",
+      "action": "Next observed action in recording",
+      "to": "095",
+      "type": "recorded",
+      "section": "Articles and health education"
+    },
+    {
+      "from": "095",
+      "action": "Next observed action in recording",
+      "to": "096",
+      "type": "recorded",
+      "section": "Articles and health education"
+    },
+    {
+      "from": "096",
+      "action": "Next observed action in recording",
+      "to": "097",
+      "type": "recorded",
+      "section": "Articles and health education"
+    },
+    {
+      "from": "097",
+      "action": "Next observed action in recording",
+      "to": "098",
+      "type": "recorded",
+      "section": "Articles and health education"
+    },
+    {
+      "from": "098",
+      "action": "Next observed action in recording",
+      "to": "099",
+      "type": "recorded",
+      "section": "Articles and health education"
+    },
+    {
+      "from": "099",
+      "action": "Next observed action in recording",
+      "to": "100",
+      "type": "recorded",
+      "section": "Articles and health education"
+    },
+    {
+      "from": "100",
+      "action": "Next observed action in recording",
+      "to": "101",
+      "type": "recorded",
+      "section": "Articles and health education"
+    },
+    {
+      "from": "101",
+      "action": "Next observed action in recording",
+      "to": "102",
+      "type": "recorded",
+      "section": "Articles and health education"
+    },
+    {
+      "from": "102",
+      "action": "Next observed action in recording",
+      "to": "103",
+      "type": "recorded",
+      "section": "Articles and health education"
+    },
+    {
+      "from": "103",
+      "action": "Next observed action in recording",
+      "to": "104",
+      "type": "recorded",
+      "section": "Articles and health education"
+    },
+    {
+      "from": "104",
+      "action": "Next observed action in recording",
+      "to": "105",
+      "type": "recorded",
+      "section": "Articles and health education"
+    },
+    {
+      "from": "105",
+      "action": "Next observed action in recording",
+      "to": "106",
+      "type": "recorded",
+      "section": "Analysis and statistics"
+    },
+    {
+      "from": "106",
+      "action": "Next observed action in recording",
+      "to": "107",
+      "type": "recorded",
+      "section": "Analysis and statistics"
+    },
+    {
+      "from": "107",
+      "action": "Next observed action in recording",
+      "to": "108",
+      "type": "recorded",
+      "section": "Analysis and statistics"
+    },
+    {
+      "from": "108",
+      "action": "Next observed action in recording",
+      "to": "109",
+      "type": "recorded",
+      "section": "Analysis and statistics"
+    },
+    {
+      "from": "109",
+      "action": "Next observed action in recording",
+      "to": "110",
+      "type": "recorded",
+      "section": "Analysis and statistics"
+    },
+    {
+      "from": "110",
+      "action": "Next observed action in recording",
+      "to": "111",
+      "type": "recorded",
+      "section": "Analysis and statistics"
+    },
+    {
+      "from": "111",
+      "action": "Next observed action in recording",
+      "to": "112",
+      "type": "recorded",
+      "section": "Analysis and statistics"
+    },
+    {
+      "from": "112",
+      "action": "Next observed action in recording",
+      "to": "113",
+      "type": "recorded",
+      "section": "Analysis and statistics"
+    },
+    {
+      "from": "113",
+      "action": "Next observed action in recording",
+      "to": "114",
+      "type": "recorded",
+      "section": "Analysis and statistics"
+    },
+    {
+      "from": "114",
+      "action": "Next observed action in recording",
+      "to": "115",
+      "type": "recorded",
+      "section": "Analysis and statistics"
+    },
+    {
+      "from": "115",
+      "action": "Next observed action in recording",
+      "to": "116",
+      "type": "recorded",
+      "section": "Analysis and statistics"
+    },
+    {
+      "from": "116",
+      "action": "Next observed action in recording",
+      "to": "117",
+      "type": "recorded",
+      "section": "Analysis and statistics"
+    },
+    {
+      "from": "117",
+      "action": "Next observed action in recording",
+      "to": "118",
+      "type": "recorded",
+      "section": "Analysis and statistics"
+    },
+    {
+      "from": "118",
+      "action": "Next observed action in recording",
+      "to": "119",
+      "type": "recorded",
+      "section": "Analysis and statistics"
+    },
+    {
+      "from": "119",
+      "action": "Next observed action in recording",
+      "to": "120",
+      "type": "recorded",
+      "section": "Analysis and statistics"
+    },
+    {
+      "from": "120",
+      "action": "Next observed action in recording",
+      "to": "121",
+      "type": "recorded",
+      "section": "Analysis and statistics"
+    },
+    {
+      "from": "121",
+      "action": "Next observed action in recording",
+      "to": "122",
+      "type": "recorded",
+      "section": "Analysis and statistics"
+    },
+    {
+      "from": "122",
+      "action": "Next observed action in recording",
+      "to": "123",
+      "type": "recorded",
+      "section": "Analysis and statistics"
+    },
+    {
+      "from": "123",
+      "action": "Next observed action in recording",
+      "to": "124",
+      "type": "recorded",
+      "section": "Analysis and statistics"
+    },
+    {
+      "from": "124",
+      "action": "Next observed action in recording",
+      "to": "125",
+      "type": "recorded",
+      "section": "Analysis and statistics"
+    },
+    {
+      "from": "125",
+      "action": "Next observed action in recording",
+      "to": "126",
+      "type": "recorded",
+      "section": "Wearable integrations"
+    },
+    {
+      "from": "126",
+      "action": "Next observed action in recording",
+      "to": "127",
+      "type": "recorded",
+      "section": "Wearable integrations"
+    },
+    {
+      "from": "127",
+      "action": "Next observed action in recording",
+      "to": "128",
+      "type": "recorded",
+      "section": "Wearable integrations"
+    },
+    {
+      "from": "128",
+      "action": "Next observed action in recording",
+      "to": "129",
+      "type": "recorded",
+      "section": "Wearable integrations"
+    },
+    {
+      "from": "129",
+      "action": "Next observed action in recording",
+      "to": "130",
+      "type": "recorded",
+      "section": "Wearable integrations"
+    },
+    {
+      "from": "130",
+      "action": "Next observed action in recording",
+      "to": "131",
+      "type": "recorded",
+      "section": "Wearable integrations"
+    },
+    {
+      "from": "131",
+      "action": "Next observed action in recording",
+      "to": "132",
+      "type": "recorded",
+      "section": "Wearable integrations"
+    },
+    {
+      "from": "132",
+      "action": "Next observed action in recording",
+      "to": "133",
+      "type": "recorded",
+      "section": "Wearable integrations"
+    },
+    {
+      "from": "133",
+      "action": "Next observed action in recording",
+      "to": "134",
+      "type": "recorded",
+      "section": "Wearable integrations"
+    },
+    {
+      "from": "134",
+      "action": "Next observed action in recording",
+      "to": "135",
+      "type": "recorded",
+      "section": "Wearable integrations"
+    },
+    {
+      "from": "135",
+      "action": "Next observed action in recording",
+      "to": "136",
+      "type": "recorded",
+      "section": "Wearable integrations"
+    },
+    {
+      "from": "136",
+      "action": "Next observed action in recording",
+      "to": "137",
+      "type": "recorded",
+      "section": "Wearable integrations"
+    },
+    {
+      "from": "137",
+      "action": "Next observed action in recording",
+      "to": "138",
+      "type": "recorded",
+      "section": "Wearable integrations"
+    },
+    {
+      "from": "138",
+      "action": "Next observed action in recording",
+      "to": "139",
+      "type": "recorded",
+      "section": "Wearable integrations"
+    },
+    {
+      "from": "139",
+      "action": "Next observed action in recording",
+      "to": "140",
+      "type": "recorded",
+      "section": "Content library"
+    },
+    {
+      "from": "140",
+      "action": "Next observed action in recording",
+      "to": "141",
+      "type": "recorded",
+      "section": "Content library"
+    },
+    {
+      "from": "141",
+      "action": "Next observed action in recording",
+      "to": "142",
+      "type": "recorded",
+      "section": "Content library"
+    },
+    {
+      "from": "142",
+      "action": "Next observed action in recording",
+      "to": "143",
+      "type": "recorded",
+      "section": "Content library"
+    },
+    {
+      "from": "143",
+      "action": "Next observed action in recording",
+      "to": "144",
+      "type": "recorded",
+      "section": "Content library"
+    },
+    {
+      "from": "144",
+      "action": "Next observed action in recording",
+      "to": "145",
+      "type": "recorded",
+      "section": "Content library"
+    },
+    {
+      "from": "145",
+      "action": "Next observed action in recording",
+      "to": "146",
+      "type": "recorded",
+      "section": "Content library"
+    },
+    {
+      "from": "146",
+      "action": "Next observed action in recording",
+      "to": "147",
+      "type": "recorded",
+      "section": "Content library"
+    },
+    {
+      "from": "147",
+      "action": "Next observed action in recording",
+      "to": "148",
+      "type": "recorded",
+      "section": "Content library"
+    },
+    {
+      "from": "148",
+      "action": "Next observed action in recording",
+      "to": "149",
+      "type": "recorded",
+      "section": "Content library"
+    },
+    {
+      "from": "149",
+      "action": "Next observed action in recording",
+      "to": "150",
+      "type": "recorded",
+      "section": "Content library"
+    },
+    {
+      "from": "150",
+      "action": "Next observed action in recording",
+      "to": "151",
+      "type": "recorded",
+      "section": "Content library"
+    },
+    {
+      "from": "151",
+      "action": "Next observed action in recording",
+      "to": "152",
+      "type": "recorded",
+      "section": "Content library"
+    },
+    {
+      "from": "152",
+      "action": "Next observed action in recording",
+      "to": "153",
+      "type": "recorded",
+      "section": "Content library"
+    },
+    {
+      "from": "153",
+      "action": "Next observed action in recording",
+      "to": "154",
+      "type": "recorded",
+      "section": "Content library"
+    },
+    {
+      "from": "154",
+      "action": "Next observed action in recording",
+      "to": "155",
+      "type": "recorded",
+      "section": "Content library"
+    },
+    {
+      "from": "155",
+      "action": "Next observed action in recording",
+      "to": "156",
+      "type": "recorded",
+      "section": "Content library"
+    },
+    {
+      "from": "156",
+      "action": "Next observed action in recording",
+      "to": "157",
+      "type": "recorded",
+      "section": "Content library"
+    },
+    {
+      "from": "157",
+      "action": "Next observed action in recording",
+      "to": "158",
+      "type": "recorded",
+      "section": "Content library"
+    },
+    {
+      "from": "158",
+      "action": "Next observed action in recording",
+      "to": "159",
+      "type": "recorded",
+      "section": "Content library"
+    },
+    {
+      "from": "159",
+      "action": "Next observed action in recording",
+      "to": "160",
+      "type": "recorded",
+      "section": "Sensitive and intimacy content"
+    },
+    {
+      "from": "160",
+      "action": "Next observed action in recording",
+      "to": "161",
+      "type": "recorded",
+      "section": "Sensitive and intimacy content"
+    },
+    {
+      "from": "161",
+      "action": "Next observed action in recording",
+      "to": "162",
+      "type": "recorded",
+      "section": "Sensitive and intimacy content"
+    },
+    {
+      "from": "162",
+      "action": "Next observed action in recording",
+      "to": "163",
+      "type": "recorded",
+      "section": "Sensitive and intimacy content"
+    },
+    {
+      "from": "163",
+      "action": "Next observed action in recording",
+      "to": "164",
+      "type": "recorded",
+      "section": "Sensitive and intimacy content"
+    },
+    {
+      "from": "164",
+      "action": "Next observed action in recording",
+      "to": "165",
+      "type": "recorded",
+      "section": "Sensitive and intimacy content"
+    },
+    {
+      "from": "165",
+      "action": "Next observed action in recording",
+      "to": "166",
+      "type": "recorded",
+      "section": "Sensitive and intimacy content"
+    },
+    {
+      "from": "166",
+      "action": "Next observed action in recording",
+      "to": "167",
+      "type": "recorded",
+      "section": "Sensitive and intimacy content"
+    },
+    {
+      "from": "167",
+      "action": "Next observed action in recording",
+      "to": "168",
+      "type": "recorded",
+      "section": "Sensitive and intimacy content"
+    },
+    {
+      "from": "168",
+      "action": "Next observed action in recording",
+      "to": "169",
+      "type": "recorded",
+      "section": "Sensitive and intimacy content"
+    },
+    {
+      "from": "169",
+      "action": "Next observed action in recording",
+      "to": "170",
+      "type": "recorded",
+      "section": "Sensitive and intimacy content"
+    },
+    {
+      "from": "170",
+      "action": "Next observed action in recording",
+      "to": "171",
+      "type": "recorded",
+      "section": "Sensitive and intimacy content"
+    },
+    {
+      "from": "171",
+      "action": "Next observed action in recording",
+      "to": "172",
+      "type": "recorded",
+      "section": "Sensitive and intimacy content"
+    },
+    {
+      "from": "172",
+      "action": "Next observed action in recording",
+      "to": "173",
+      "type": "recorded",
+      "section": "Sensitive and intimacy content"
+    },
+    {
+      "from": "173",
+      "action": "Next observed action in recording",
+      "to": "174",
+      "type": "recorded",
+      "section": "Sensitive and intimacy content"
+    },
+    {
+      "from": "174",
+      "action": "Next observed action in recording",
+      "to": "175",
+      "type": "recorded",
+      "section": "Sensitive and intimacy content"
+    },
+    {
+      "from": "175",
+      "action": "Next observed action in recording",
+      "to": "176",
+      "type": "recorded",
+      "section": "Premium discovery and upsell"
+    },
+    {
+      "from": "176",
+      "action": "Next observed action in recording",
+      "to": "177",
+      "type": "recorded",
+      "section": "Premium discovery and upsell"
+    },
+    {
+      "from": "177",
+      "action": "Next observed action in recording",
+      "to": "178",
+      "type": "recorded",
+      "section": "Premium discovery and upsell"
+    },
+    {
+      "from": "178",
+      "action": "Next observed action in recording",
+      "to": "179",
+      "type": "recorded",
+      "section": "Premium discovery and upsell"
+    },
+    {
+      "from": "179",
+      "action": "Next observed action in recording",
+      "to": "180",
+      "type": "recorded",
+      "section": "Premium discovery and upsell"
+    },
+    {
+      "from": "180",
+      "action": "Next observed action in recording",
+      "to": "181",
+      "type": "recorded",
+      "section": "Premium discovery and upsell"
+    },
+    {
+      "from": "181",
+      "action": "Next observed action in recording",
+      "to": "182",
+      "type": "recorded",
+      "section": "Premium discovery and upsell"
+    },
+    {
+      "from": "182",
+      "action": "Next observed action in recording",
+      "to": "183",
+      "type": "recorded",
+      "section": "Premium discovery and upsell"
+    },
+    {
+      "from": "183",
+      "action": "Next observed action in recording",
+      "to": "184",
+      "type": "recorded",
+      "section": "Premium discovery and upsell"
+    },
+    {
+      "from": "184",
+      "action": "Next observed action in recording",
+      "to": "185",
+      "type": "recorded",
+      "section": "Premium discovery and upsell"
+    },
+    {
+      "from": "185",
+      "action": "Next observed action in recording",
+      "to": "186",
+      "type": "recorded",
+      "section": "Premium discovery and upsell"
+    },
+    {
+      "from": "186",
+      "action": "Next observed action in recording",
+      "to": "187",
+      "type": "recorded",
+      "section": "Premium discovery and upsell"
+    },
+    {
+      "from": "187",
+      "action": "Next observed action in recording",
+      "to": "188",
+      "type": "recorded",
+      "section": "Premium discovery and upsell"
+    },
+    {
+      "from": "188",
+      "action": "Next observed action in recording",
+      "to": "189",
+      "type": "recorded",
+      "section": "Premium discovery and upsell"
+    },
+    {
+      "from": "189",
+      "action": "Next observed action in recording",
+      "to": "190",
+      "type": "recorded",
+      "section": "Premium discovery and upsell"
+    },
+    {
+      "from": "190",
+      "action": "Next observed action in recording",
+      "to": "191",
+      "type": "recorded",
+      "section": "Premium discovery and upsell"
+    },
+    {
+      "from": "191",
+      "action": "Next observed action in recording",
+      "to": "192",
+      "type": "recorded",
+      "section": "Premium discovery and upsell"
+    },
+    {
+      "from": "192",
+      "action": "Next observed action in recording",
+      "to": "193",
+      "type": "recorded",
+      "section": "Premium discovery and upsell"
+    },
+    {
+      "from": "193",
+      "action": "Next observed action in recording",
+      "to": "194",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    },
+    {
+      "from": "194",
+      "action": "Next observed action in recording",
+      "to": "195",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    },
+    {
+      "from": "195",
+      "action": "Next observed action in recording",
+      "to": "196",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    },
+    {
+      "from": "196",
+      "action": "Next observed action in recording",
+      "to": "197",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    },
+    {
+      "from": "197",
+      "action": "Next observed action in recording",
+      "to": "198",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    },
+    {
+      "from": "198",
+      "action": "Next observed action in recording",
+      "to": "199",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    },
+    {
+      "from": "199",
+      "action": "Next observed action in recording",
+      "to": "200",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    },
+    {
+      "from": "200",
+      "action": "Next observed action in recording",
+      "to": "201",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    },
+    {
+      "from": "201",
+      "action": "Next observed action in recording",
+      "to": "202",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    },
+    {
+      "from": "202",
+      "action": "Next observed action in recording",
+      "to": "203",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    },
+    {
+      "from": "203",
+      "action": "Next observed action in recording",
+      "to": "204",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    },
+    {
+      "from": "204",
+      "action": "Next observed action in recording",
+      "to": "205",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    },
+    {
+      "from": "205",
+      "action": "Next observed action in recording",
+      "to": "206",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    },
+    {
+      "from": "206",
+      "action": "Next observed action in recording",
+      "to": "207",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    },
+    {
+      "from": "207",
+      "action": "Next observed action in recording",
+      "to": "208",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    },
+    {
+      "from": "208",
+      "action": "Next observed action in recording",
+      "to": "209",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    },
+    {
+      "from": "209",
+      "action": "Next observed action in recording",
+      "to": "210",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    },
+    {
+      "from": "210",
+      "action": "Next observed action in recording",
+      "to": "211",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    },
+    {
+      "from": "211",
+      "action": "Next observed action in recording",
+      "to": "212",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    },
+    {
+      "from": "212",
+      "action": "Next observed action in recording",
+      "to": "213",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    },
+    {
+      "from": "213",
+      "action": "Next observed action in recording",
+      "to": "214",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    },
+    {
+      "from": "214",
+      "action": "Next observed action in recording",
+      "to": "215",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    },
+    {
+      "from": "215",
+      "action": "Next observed action in recording",
+      "to": "216",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    },
+    {
+      "from": "216",
+      "action": "Next observed action in recording",
+      "to": "217",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    },
+    {
+      "from": "217",
+      "action": "Next observed action in recording",
+      "to": "218",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    },
+    {
+      "from": "218",
+      "action": "Next observed action in recording",
+      "to": "219",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    },
+    {
+      "from": "219",
+      "action": "Next observed action in recording",
+      "to": "220",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    },
+    {
+      "from": "220",
+      "action": "Next observed action in recording",
+      "to": "221",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    },
+    {
+      "from": "221",
+      "action": "Next observed action in recording",
+      "to": "222",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    },
+    {
+      "from": "222",
+      "action": "Next observed action in recording",
+      "to": "223",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    },
+    {
+      "from": "223",
+      "action": "Next observed action in recording",
+      "to": "224",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    },
+    {
+      "from": "224",
+      "action": "Next observed action in recording",
+      "to": "225",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    },
+    {
+      "from": "225",
+      "action": "Next observed action in recording",
+      "to": "226",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    },
+    {
+      "from": "226",
+      "action": "Next observed action in recording",
+      "to": "227",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    },
+    {
+      "from": "227",
+      "action": "Next observed action in recording",
+      "to": "228",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    },
+    {
+      "from": "228",
+      "action": "Next observed action in recording",
+      "to": "229",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    },
+    {
+      "from": "229",
+      "action": "Next observed action in recording",
+      "to": "230",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    },
+    {
+      "from": "230",
+      "action": "Next observed action in recording",
+      "to": "231",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    },
+    {
+      "from": "231",
+      "action": "Next observed action in recording",
+      "to": "232",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    },
+    {
+      "from": "232",
+      "action": "Next observed action in recording",
+      "to": "233",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    },
+    {
+      "from": "233",
+      "action": "Next observed action in recording",
+      "to": "234",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    },
+    {
+      "from": "234",
+      "action": "Next observed action in recording",
+      "to": "235",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    },
+    {
+      "from": "235",
+      "action": "Next observed action in recording",
+      "to": "236",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    },
+    {
+      "from": "236",
+      "action": "Next observed action in recording",
+      "to": "237",
+      "type": "recorded",
+      "section": "Settings and account areas"
+    }
+  ]
+}
