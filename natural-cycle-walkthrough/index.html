@@ -110,6 +110,26 @@
       overflow: hidden;
       position: relative;
     }
+    .visual.tight { padding: 16px; }
+    .image-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; align-items: start; }
+    .image-stack { display: grid; gap: 14px; }
+    .screen-shot {
+      width: 100%;
+      display: block;
+      border-radius: 24px;
+      border: 1px solid var(--line);
+      background: #fff;
+      box-shadow: 0 18px 45px rgba(57,24,50,.12);
+    }
+    .screen-shot.phone { max-height: 610px; object-fit: cover; object-position: top; }
+    .screen-shot.wide { max-height: 360px; object-fit: contain; }
+    .screen-shot.crop { max-height: 235px; object-fit: cover; object-position: top; }
+    .evidence-caption {
+      margin: 8px 0 0;
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.45;
+    }
     .ia-stack { display: grid; gap: 10px; }
     .ia-item { display: flex; justify-content: space-between; gap: 16px; align-items: center; padding: 13px 15px; border-radius: 16px; background: #fff; border: 1px solid var(--line); font-weight: 800; }
     .ia-item span { color: var(--muted); font-weight: 700; font-size: 12px; text-transform: uppercase; letter-spacing: .1em; }
@@ -147,6 +167,7 @@
       .flow-strip, .slide, .blueprint-grid { grid-template-columns: 1fr; }
       .slide { min-height: auto; }
       .frame-grid { grid-template-columns: repeat(7, 1fr); }
+      .image-grid { grid-template-columns: 1fr; }
     }
     @media print {
       body { background: #fff; }
@@ -189,10 +210,10 @@
           <h2>Intro & Information Architecture Map</h2>
           <p class="summary">Trust frames the entire product journey.</p>
           <ul class="bullets">
-            <li>Brand + regulatory trust opens the system</li>
-            <li>Mode selection routes the user goal</li>
-            <li>Temperature input powers algorithmic status</li>
-            <li>Insights convert daily logging into patterns</li>
+            <li>Today gives the daily fertility status</li>
+            <li>Add Data captures algorithm inputs and trackers</li>
+            <li>Graph explains temperature and cycle position</li>
+            <li>Messages, Learn, and Insights teach over time</li>
           </ul>
         </div>
         <div class="visual">
@@ -203,8 +224,9 @@
             <div class="ia-item">Account + Subscription <span>Access</span></div>
             <div class="ia-item">Select Measuring Device <span>Hardware</span></div>
             <div class="ia-item">Daily Temperature Sync / Entry <span>Habit</span></div>
-            <div class="ia-item">Today: Red or Green Status <span>Decision</span></div>
-            <div class="ia-item">Calendar + Graph + Insights <span>Learning</span></div>
+            <div class="ia-item">Today: Status Circle + Predictions <span>Decision</span></div>
+            <div class="ia-item">Calendar + Graph + Compare Mode <span>Model</span></div>
+            <div class="ia-item">Messages + Learn + Cycle Insights <span>Education</span></div>
           </div>
         </div>
       </section>
@@ -257,19 +279,22 @@
           <h2>The Today Tab: Status Circle Component</h2>
           <p class="summary">One ring answers today’s core question.</p>
           <ul class="bullets">
-            <li>Centered fertility status dominates the screen</li>
-            <li>Green / Red states create instant recognition</li>
-            <li>Cycle day supports temporal orientation</li>
-            <li>Prediction modules stay secondary</li>
+            <li>Colored circle shows today’s fertility status</li>
+            <li>Cycle day anchors the user in time</li>
+            <li>Added data and predictions sit below</li>
+            <li>Cycle Insights appears after scrolling down</li>
           </ul>
         </div>
-        <div class="visual">
-          <div class="status-circle">Not<br>Fertile</div>
-          <div class="status-meta">
-            <div class="mini-card">Cycle Day</div>
-            <div class="mini-card">Logged Data</div>
-            <div class="mini-card">Prediction</div>
-            <div class="mini-card">Cycle Phase</div>
+        <div class="visual tight">
+          <div class="image-grid">
+            <div>
+              <img class="screen-shot phone" src="assets/today-birth-control.png" alt="NC Birth Control Today status circle showing Use protection" />
+              <p class="evidence-caption">NC Birth Control: daily status, cycle day, temperature, predictions.</p>
+            </div>
+            <div class="image-stack">
+              <img class="screen-shot phone" src="assets/today-plan-pregnancy.png" alt="NC Plan Pregnancy Today status circle showing High fertility" />
+              <img class="screen-shot crop" src="assets/cycle-insights-cta.png" alt="See Cycle Insights call-to-action" />
+            </div>
           </div>
         </div>
       </section>
@@ -280,21 +305,19 @@
           <h2>The Graph Tab: Algorithmic Scatter-Plot UI</h2>
           <p class="summary">Raw signals become interpretable cycle evidence.</p>
           <ul class="bullets">
-            <li>Temperature dots create daily measurement memory</li>
-            <li>Line shifts reveal ovulation-related changes</li>
-            <li>Phase zones explain biological context</li>
-            <li>Predictions stay visibly separate from logs</li>
+            <li>Temperature curve develops across cycles</li>
+            <li>Ovulation, period, and fertile days remain visible</li>
+            <li>Compare Mode supports cycle-to-cycle review</li>
+            <li>Cycle Insights converts patterns into statistics</li>
           </ul>
         </div>
-        <div class="visual">
-          <div class="graph">
-            <svg viewBox="0 0 680 360" preserveAspectRatio="none">
-              <path d="M40 250 C120 230 150 140 220 170 S330 235 400 150 S520 110 640 130" fill="none" stroke="#f26a68" stroke-width="8" stroke-linecap="round"/>
-              <path d="M400 150 C470 120 560 110 640 80" fill="none" stroke="#79b45f" stroke-width="8" stroke-linecap="round" stroke-dasharray="14 16"/>
-              <circle cx="220" cy="170" r="11" fill="#fff" stroke="#f26a68" stroke-width="6"/>
-              <circle cx="400" cy="150" r="11" fill="#87006f"/>
-              <circle cx="560" cy="110" r="11" fill="#79b45f"/>
-            </svg>
+        <div class="visual tight">
+          <div class="image-stack">
+            <img class="screen-shot wide" src="assets/graph.png" alt="Natural Cycles graph showing temperature curve, period, fertile window and ovulation marker" />
+            <div class="image-grid">
+              <img class="screen-shot crop" src="assets/cycle-insights.png" alt="Cycle Insights statistics cards" />
+              <img class="screen-shot crop" src="assets/trends.png" alt="Cycle length trends chart" />
+            </div>
           </div>
         </div>
       </section>
@@ -303,20 +326,21 @@
         <div>
           <div class="slide-number">Slide 06</div>
           <h2>The Add Data View: Metric Inputs</h2>
-          <p class="summary">Logging separates algorithm data from trackers.</p>
+          <p class="summary">Daily logging feeds status and learning.</p>
           <ul class="bullets">
-            <li>Drawer overlay keeps Today context nearby</li>
-            <li>Temperature uses precise decimal entry</li>
-            <li>Symptoms use fast toggle chips</li>
-            <li>Sliders capture intensity without typing</li>
+            <li>Add Data opens first each day</li>
+            <li>Temperature, period, tests, sex, EC are core</li>
+            <li>Messages explain warnings and recommendations</li>
+            <li>Learn provides guides, quizzes, and research</li>
           </ul>
         </div>
-        <div class="visual">
-          <div class="drawer">
-            <h3>Add Data</h3>
-            <div class="metric"><strong>Temperature</strong><div class="slider"></div></div>
-            <div class="metric"><strong>Bleeding</strong><div class="toggles"><span class="toggle">None</span><span class="toggle">Light</span><span class="toggle">Medium</span><span class="toggle">Heavy</span></div></div>
-            <div class="metric"><strong>Trackers</strong><div class="toggles"><span class="toggle">Pain</span><span class="toggle">Sleep</span><span class="toggle">Mood</span><span class="toggle">Sex</span></div></div>
+        <div class="visual tight">
+          <div class="image-grid">
+            <img class="screen-shot phone" src="assets/add-data.png" alt="Natural Cycles Add Data page with temperature, bleeding, sex, ovulation test, symptoms and emotions" />
+            <div class="image-stack">
+              <img class="screen-shot phone" src="assets/learn.png" alt="Natural Cycles Learn tab with spotlight article and guides" />
+              <div class="mini-card"><strong>Messages</strong><br>Badge-led tab for encouragement, statistics, reminders, cautionary instructions, and cycle updates.</div>
+            </div>
           </div>
         </div>
       </section>
@@ -365,7 +389,7 @@
         </article>
       </div>
       <p class="sources">
-        Source direction for presentation visuals: Natural Cycles App Tour / Help Portal, Red & Green Days explainer, Charting and Graph guide, Google Play showcase, FDA/user manual, and selected public screenshot resources as presentation evidence only.
+        Source direction for presentation visuals: Natural Cycles Today, Add Data, Graph, Messages, Cycle Insights, Trends, and Learn surfaces; wording follows the app-tour/help text supplied for this presentation.
       </p>
     </section>
   </div>
