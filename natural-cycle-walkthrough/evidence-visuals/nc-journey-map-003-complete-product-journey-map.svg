@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="1280" viewBox="0 0 720 1280">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff"/>
+      <stop offset="100%" stop-color="#f6edf3"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="1280" rx="44" fill="url(#bg)"/>
+  <rect x="54" y="64" width="612" height="1152" rx="38" fill="#ffffff" stroke="#ead8e5" stroke-width="2"/>
+  <circle cx="360" cy="318" r="106" fill="#87006f" opacity=".11"/>
+  <text x="360" y="304" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#87006f">Official Evidence Card</text>
+  <text x="360" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#54464f">UI screenshot not found</text>
+  <foreignObject x="96" y="500" width="528" height="250">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Arial,sans-serif;color:#18151a;text-align:center;font-size:38px;font-weight:800;line-height:1.18;">Complete Product Journey Map</div>
+  </foreignObject>
+  <foreignObject x="106" y="780" width="508" height="180">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Arial,sans-serif;color:#6f6470;text-align:center;font-size:26px;line-height:1.35;">Documented behavior without a collected official UI screenshot.</div>
+  </foreignObject>
+  <text x="360" y="1100" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#8a7884">Natural Cycles Birth Control</text>
+</svg>

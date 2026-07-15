@@ -1,0 +1,142 @@
+[
+  {
+    "from": "001",
+    "action": "Documented/probable next step assembled from official source evidence.",
+    "to": "002",
+    "connector": "dashed",
+    "status": "Official documentation"
+  },
+  {
+    "from": "002",
+    "action": "Documented/probable next step assembled from official source evidence.",
+    "to": "003",
+    "connector": "dashed",
+    "status": "Official documentation"
+  },
+  {
+    "from": "003",
+    "action": "Documented/probable next step assembled from official source evidence.",
+    "to": "004",
+    "connector": "dashed",
+    "status": "Official documentation"
+  },
+  {
+    "from": "004",
+    "action": "Documented/probable next step assembled from official source evidence.",
+    "to": "005",
+    "connector": "dashed",
+    "status": "Official documentation"
+  },
+  {
+    "from": "005",
+    "action": "Documented/probable next step assembled from official source evidence.",
+    "to": "006",
+    "connector": "dashed",
+    "status": "Official documentation"
+  },
+  {
+    "from": "006",
+    "action": "Documented/probable next step assembled from official source evidence.",
+    "to": "007",
+    "connector": "dashed",
+    "status": "Official documentation"
+  },
+  {
+    "from": "007",
+    "action": "Documented/probable next step assembled from official source evidence.",
+    "to": "008",
+    "connector": "dashed",
+    "status": "Official documentation"
+  },
+  {
+    "from": "008",
+    "action": "Documented/probable next step assembled from official source evidence.",
+    "to": "009",
+    "connector": "dashed",
+    "status": "Official documentation"
+  },
+  {
+    "from": "009",
+    "action": "Documented/probable next step assembled from official source evidence.",
+    "to": "010",
+    "connector": "dashed",
+    "status": "Official documentation"
+  },
+  {
+    "from": "010",
+    "action": "Documented/probable next step assembled from official source evidence.",
+    "to": "011",
+    "connector": "dashed",
+    "status": "Official documentation"
+  },
+  {
+    "from": "011",
+    "action": "Documented/probable next step assembled from official source evidence.",
+    "to": "012",
+    "connector": "solid",
+    "status": "Official screenshot"
+  },
+  {
+    "from": "012",
+    "action": "Documented/probable next step assembled from official source evidence.",
+    "to": "013",
+    "connector": "solid",
+    "status": "Official screenshot"
+  },
+  {
+    "from": "013",
+    "action": "Documented/probable next step assembled from official source evidence.",
+    "to": "014",
+    "connector": "dashed",
+    "status": "Official documentation"
+  },
+  {
+    "from": "014",
+    "action": "Documented/probable next step assembled from official source evidence.",
+    "to": "015",
+    "connector": "solid",
+    "status": "Official screenshot"
+  },
+  {
+    "from": "015",
+    "action": "Documented/probable next step assembled from official source evidence.",
+    "to": "016",
+    "connector": "solid",
+    "status": "Official screenshot"
+  },
+  {
+    "from": "016",
+    "action": "Documented/probable next step assembled from official source evidence.",
+    "to": "017",
+    "connector": "solid",
+    "status": "Official screenshot"
+  },
+  {
+    "from": "017",
+    "action": "Documented/probable next step assembled from official source evidence.",
+    "to": "018",
+    "connector": "dashed",
+    "status": "Official documentation"
+  },
+  {
+    "from": "018",
+    "action": "Documented/probable next step assembled from official source evidence.",
+    "to": "019",
+    "connector": "dashed",
+    "status": "Official documentation"
+  },
+  {
+    "from": "019",
+    "action": "Documented/probable next step assembled from official source evidence.",
+    "to": "020",
+    "connector": "dashed",
+    "status": "Official documentation"
+  },
+  {
+    "from": "020",
+    "action": "Documented/probable next step assembled from official source evidence.",
+    "to": "End",
+    "connector": "dashed",
+    "status": "Official documentation"
+  }
+]

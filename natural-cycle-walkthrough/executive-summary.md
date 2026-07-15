@@ -1,0 +1,3 @@
+# Natural Cycle Executive Summary
+
+Natural Cycles is a regulated fertility product for birth control, pregnancy planning, and cycle understanding. Its core daily behavior is collecting/syncing temperature and cycle data, processing that through a fertility algorithm, and returning a clear daily status. The strongest UX decision is the binary Red/Green daily decision model. The highest-friction points are device dependence, subscription-first access, consistent measurement requirements, and limited local availability for this research. ONI can learn from its clear data hierarchy, wearable integration, evidence-led trust, partner access, and longitudinal insights, while translating those patterns into pregnancy care rather than contraception logic.
